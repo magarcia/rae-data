@@ -1,0 +1,364 @@
+{"number":1,"attributes":["nombre femenino"],"definition":"Sexta letra del abecedario español, que representa el fonema consonántico fricativo labiodental sordo.","examples":[],"word":"f"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Sonido que representa la letra f.","examples":[],"word":"f"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Cuarta nota de la escala musical.","examples":[],"word":"fa"}
+{"number":1,"attributes":["nombre femenino","Asturias"],"definition":"judía (‖ planta).","examples":[],"word":"faba"}
+{"number":2,"attributes":["nombre femenino","Asturias"],"definition":"Fruto y semilla de la judía (‖ planta).","examples":[],"word":"faba"}
+{"number":3,"attributes":["nombre femenino","desusado"],"definition":"haba (‖ planta). U. en Ast. y Gal. En Hues., u. c. rur.","examples":[],"word":"faba"}
+{"number":4,"attributes":["nombre femenino","desusado"],"definition":"haba (‖ fruto y semilla). U. en Ast. y Gal. En Hues., u. c. rur.","examples":[],"word":"faba"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Potaje de judías con tocino, chorizo y morcilla, típico de Asturias.","examples":[],"word":"fabada"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Movimiento socialista británico de carácter reformista surgido a finales del siglo XIX.","examples":[],"word":"fabianismo"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Imitación convencional del español antiguo hecha en algunas composiciones literarias.","examples":[],"word":"fabla"}
+{"number":2,"attributes":["nombre femenino","desusado"],"definition":"habla.","examples":[],"word":"fabla"}
+{"number":3,"attributes":["nombre femenino","desusado"],"definition":"fábula.","examples":[],"word":"fabla"}
+{"number":4,"attributes":["nombre femenino","desusado"],"definition":"Concierto, confabulación.","examples":[],"word":"fabla"}
+{"number":1,"attributes":["adjetivo desusado"],"definition":"Decible o explicable.","examples":[],"word":"fablable"}
+{"number":1,"attributes":["verbo intransitivo desusado"],"definition":"hablar. Era u. t. c. tr. Era u. t. c. prnl.","examples":[],"word":"fablar"}
+{"number":1,"attributes":["nombre femenino desusado"],"definition":"cuento (‖ relación de un suceso).","examples":[],"word":"fabliella"}
+{"number":2,"attributes":["nombre femenino","desusado"],"definition":"hablilla.","examples":[],"word":"fabliella"}
+{"number":1,"attributes":["verbo intransitivo desusado"],"definition":"charlar (‖ hablar mucho fuera de propósito).","examples":[],"word":"fablistanear"}
+{"number":1,"attributes":["nombre masculino","rural","Huesca"],"definition":"haya1.","examples":[],"word":"fabo"}
+{"number":1,"attributes":["nombre masculino","Música"],"definition":"Contrapunto sobre canto llano usado principalmente para la música religiosa.","examples":[],"word":"fabordón"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Acción y efecto de fabricar.","examples":[],"word":"fabricación"}
+{"number":1,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Que inventa o dispone algo no material.","examples":["Fabricador de embustes, de discordias."],"word":"fabricador"}
+{"number":2,"attributes":["adjetivo","desusado"],"definition":"fabricante. Era u. t. c. s.","examples":[],"word":"fabricador"}
+{"number":1,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Que inventa o dispone algo no material.","examples":["Fabricador de embustes, de discordias."],"word":"fabricadora"}
+{"number":2,"attributes":["adjetivo","desusado"],"definition":"fabricante. Era u. t. c. s.","examples":[],"word":"fabricadora"}
+{"number":1,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Que fabrica.","examples":[],"word":"fabricante"}
+{"number":2,"attributes":["nombre masculino y femenino"],"definition":"Dueño de una fábrica.","examples":[],"word":"fabricante"}
+{"number":1,"attributes":["verbo transitivo"],"definition":"Producir objetos en serie, generalmente por medios mecánicos.","examples":[],"word":"fabricar"}
+{"number":2,"attributes":["verbo transitivo"],"definition":"Construir un edificio, un dique, un muro o cosa análoga.","examples":[],"word":"fabricar"}
+{"number":3,"attributes":["verbo transitivo"],"definition":"elaborar (‖ transformar).","examples":[],"word":"fabricar"}
+{"number":4,"attributes":["verbo transitivo"],"definition":"Hacer o inventar algo no material.","examples":["Fabricar alguien su fortuna.","Fabricar una mentira."],"word":"fabricar"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo a las fábricas o a sus operarios.","examples":[],"word":"fabril"}
+{"number":1,"attributes":["nombre masculino"],"definition":"fabricante.","examples":[],"word":"fabriquero"}
+{"number":2,"attributes":["nombre masculino"],"definition":"Operario que en los montes trabaja en el carboneo.","examples":[],"word":"fabriquero"}
+{"number":3,"attributes":["nombre masculino"],"definition":"En las iglesias, encargado, generalmente un canónigo, de la custodia y la inversión de los fondos dedicados a los edificios y a los utensilios y paños del culto.","examples":[],"word":"fabriquero"}
+{"number":1,"attributes":["nombre masculino desusado"],"definition":"artífice.","examples":[],"word":"fabro"}
+{"number":1,"attributes":["nombre masculino","rural","Asturias"],"definition":"hayuco.","examples":[],"word":"fabuco"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Acción y efecto de fabular1.","examples":[],"word":"fabulación"}
+{"number":1,"attributes":["nombre masculino y femenino"],"definition":"fabulista.","examples":[],"word":"fabulador"}
+{"number":2,"attributes":["nombre masculino y femenino"],"definition":"Persona con facilidad para inventar cosas fabulosas o inclinada a ello.","examples":[],"word":"fabulador"}
+{"number":1,"attributes":["nombre masculino y femenino"],"definition":"fabulista.","examples":[],"word":"fabuladora"}
+{"number":2,"attributes":["nombre masculino y femenino"],"definition":"Persona con facilidad para inventar cosas fabulosas o inclinada a ello.","examples":[],"word":"fabuladora"}
+{"number":1,"attributes":["verbo transitivo"],"definition":"Inventar cosas fabulosas.","examples":[],"word":"fabular"}
+{"number":2,"attributes":["verbo transitivo"],"definition":"Inventar, imaginar tramas o argumentos.","examples":[],"word":"fabular"}
+{"number":1,"attributes":["verbo transitivo desusado"],"definition":"hablar.","examples":[],"word":"fabular"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Repertorio de fábulas.","examples":[],"word":"fabulario"}
+{"number":1,"attributes":["nombre masculino y femenino"],"definition":"Persona que compone o escribe fábulas literarias, generalmente en verso.","examples":[],"word":"fabulista"}
+{"number":2,"attributes":["nombre masculino y femenino","desusado"],"definition":"Persona que escribe acerca de la mitología.","examples":[],"word":"fabulista"}
+{"number":1,"attributes":["adjetivo"],"definition":"Dicho de un relato, de una persona o de una cosa: Fantástico, irreal o imaginario.","examples":["Héroes fabulosos."],"word":"fabulosa"}
+{"number":2,"attributes":["adjetivo"],"definition":"Extraordinario, increíble o fuera de lo común.","examples":["Precios fabulosos.","Fabulosa ignorancia."],"word":"fabulosa"}
+{"number":1,"attributes":["adverbio"],"definition":"De manera fabulosa.","examples":[],"word":"fabulosamente"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Cualidad de fabuloso.","examples":[],"word":"fabulosidad"}
+{"number":2,"attributes":["nombre femenino","desusado"],"definition":"Falsedad de las fábulas.","examples":[],"word":"fabulosidad"}
+{"number":1,"attributes":["adjetivo"],"definition":"Dicho de un relato, de una persona o de una cosa: Fantástico, irreal o imaginario.","examples":["Héroes fabulosos."],"word":"fabuloso"}
+{"number":2,"attributes":["adjetivo"],"definition":"Extraordinario, increíble o fuera de lo común.","examples":["Precios fabulosos.","Fabulosa ignorancia."],"word":"fabuloso"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo a las fábulas.","examples":[],"word":"fabulístico"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Estudio histórico-literario de la fábula.","examples":[],"word":"fabulístico"}
+{"number":3,"attributes":["nombre femenino"],"definition":"Literatura de fábulas.","examples":[],"word":"fabulístico"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Cuchillo corvo.","examples":[],"word":"faca"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Cuchillo de grandes dimensiones y con punta, que suele llevarse envainado en una funda de cuero.","examples":[],"word":"faca"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Golpe que se da con la faca.","examples":[],"word":"facazo"}
+{"number":2,"attributes":["nombre masculino"],"definition":"Herida que resulta de un facazo.","examples":[],"word":"facazo"}
+{"number":1,"attributes":["verbo transitivo desusado"],"definition":"Dar figura o forma a algo.","examples":[],"word":"faccionar"}
+{"number":1,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Que se declara a favor de una facción o de un bando.","examples":[],"word":"faccionaria"}
+{"number":1,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Que se declara a favor de una facción o de un bando.","examples":[],"word":"faccionario"}
+{"number":1,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Dicho especialmente de un rebelde armado: Que pertenece a una facción.","examples":[],"word":"facciosa"}
+{"number":2,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Inquieto, revoltoso, perturbador de la quietud pública.","examples":[],"word":"facciosa"}
+{"number":1,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Dicho especialmente de un rebelde armado: Que pertenece a una facción.","examples":[],"word":"faccioso"}
+{"number":2,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Inquieto, revoltoso, perturbador de la quietud pública.","examples":[],"word":"faccioso"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Grupo de gente amotinada o rebelada.","examples":[],"word":"facción"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Grupo de personas unidas por ideas o intereses comunes dentro de una agrupación o colectividad.","examples":["La facción conservadora del partido."],"word":"facción"}
+{"number":3,"attributes":["nombre femenino"],"definition":"Bando, pandilla o partido violentos o desaforados en sus procederes o sus designios.","examples":[],"word":"facción"}
+{"number":4,"attributes":["nombre femenino"],"definition":"Cada una de las partes del rostro humano. U. m. en pl.","examples":[],"word":"facción"}
+{"number":5,"attributes":["nombre femenino","poco usado"],"definition":"Acto del servicio militar, como una guardia, una patrulla, etc.","examples":[],"word":"facción"}
+{"number":6,"attributes":["nombre femenino","desusado"],"definition":"Acción de guerra.","examples":[],"word":"facción"}
+{"number":7,"attributes":["nombre femenino","desusado"],"definition":"hechura.","examples":[],"word":"facción"}
+{"number":8,"attributes":["nombre femenino","desusado"],"definition":"Forma y disposición con que algo se distingue de otra cosa.","examples":[],"word":"facción"}
+{"number":1,"attributes":["nombre femenino desusado"],"definition":"Chiste, donaire o cuento gracioso.","examples":[],"word":"facecia"}
+{"number":1,"attributes":["adjetivo desusado"],"definition":"Que encierra en sí chiste o donaire.","examples":[],"word":"faceciosa"}
+{"number":1,"attributes":["adjetivo desusado"],"definition":"Que encierra en sí chiste o donaire.","examples":[],"word":"facecioso"}
+{"number":1,"attributes":["adjetivo poco usado"],"definition":"hacedor (‖ que hace). U. m. c. s.","examples":[],"word":"facedor"}
+{"number":1,"attributes":["adjetivo poco usado"],"definition":"hacedor (‖ que hace). U. m. c. s.","examples":[],"word":"facedora"}
+{"number":1,"attributes":["verbo transitivo desusado"],"definition":"hacer. Era u. t. c. prnl.","examples":[],"word":"facer"}
+{"number":1,"attributes":["adjetivo","Navarra"],"definition":"Perteneciente o relativo a la facería.","examples":[],"word":"facero"}
+{"number":2,"attributes":["adjetivo","desusado"],"definition":"fronterizo.","examples":[],"word":"facero"}
+{"number":3,"attributes":["nombre femenino desusado"],"definition":"acera (‖ fila de casas a cada lado de una calle).","examples":[],"word":"facero"}
+{"number":1,"attributes":["nombre masculino desusado"],"definition":"almohada (‖ funda rellena para reclinar la cabeza).","examples":[],"word":"faceruelo"}
+{"number":1,"attributes":["nombre femenino","Navarra"],"definition":"Terrenos de pasto que hay en los linderos de dos o más pueblos, que se aprovechan en común.","examples":[],"word":"facería"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Cada una de las caras de un poliedro, especialmente de un cristal o de una piedra tallada.","examples":[],"word":"faceta"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Cada uno de los aspectos que se pueden considerar en una persona o en una cosa.","examples":[],"word":"faceta"}
+{"number":3,"attributes":["nombre femenino","Zoología"],"definition":"Cada una de las caras o partes en que se divide un ojo compuesto.","examples":[],"word":"faceta"}
+{"number":1,"attributes":["adjetivo"],"definition":"Que tiene facetas.","examples":["Poliedros facetados.","Ojos facetados."],"word":"facetada"}
+{"number":1,"attributes":["adjetivo"],"definition":"Que tiene facetas.","examples":["Poliedros facetados.","Ojos facetados."],"word":"facetado"}
+{"number":1,"attributes":["verbo transitivo"],"definition":"Dar facetas (‖ caras de un poliedro) a algo.","examples":[],"word":"facetar"}
+{"number":1,"attributes":["adjetivo","México"],"definition":"Que quiere ser chistoso, pero no tiene gracia.","examples":[],"word":"faceto"}
+{"number":2,"attributes":["adjetivo","México"],"definition":"presuntuoso.","examples":[],"word":"faceto"}
+{"number":3,"attributes":["adjetivo","desusado"],"definition":"chistoso.","examples":[],"word":"faceto"}
+{"number":1,"attributes":["nombre femenino coloquial"],"definition":"Traza, figura, aspecto.","examples":[],"word":"facha"}
+{"number":2,"attributes":["nombre femenino","coloquial","Usado también como masculino"],"definition":"Mamarracho, adefesio.","examples":[],"word":"facha"}
+{"number":3,"attributes":["nombre femenino","plural","México"],"definition":"disfraz (‖ vestido de máscara).","examples":[],"word":"facha"}
+{"number":1,"attributes":["nombre femenino desusado"],"definition":"hacha2.","examples":[],"word":"facha"}
+{"number":1,"attributes":["adjetivo","despectivo o despectiva","coloquial","usado también como sustantivo"],"definition":"fascista. Apl. a pers.,","examples":[],"word":"facha"}
+{"number":2,"attributes":["adjetivo","despectivo o despectiva","coloquial","usado también como sustantivo"],"definition":"De ideología política reaccionaria. Apl. a pers.,","examples":[],"word":"facha"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Paramento exterior de un edificio, especialmente el principal.","examples":[],"word":"fachada"}
+{"number":2,"attributes":["nombre femenino","coloquial"],"definition":"presencia (‖ talle, figura).","examples":["Fulano tiene gran fachada."],"word":"fachada"}
+{"number":3,"attributes":["nombre femenino"],"definition":"Portada de un libro.","examples":[],"word":"fachada"}
+{"number":1,"attributes":["nombre masculino","Nicaragua"],"definition":"Política administrativa gubernamental que se contenta con aparentar que actúa.","examples":[],"word":"fachadismo"}
+{"number":1,"attributes":["nombre femenino","Ecuador"],"definition":"Pañuelo indígena grande que usan las mujeres sobre los hombros.","examples":[],"word":"fachalina"}
+{"number":1,"attributes":["verbo transitivo","Cuba"],"definition":"robar (‖ tomar para sí o hurtar).","examples":[],"word":"fachar"}
+{"number":1,"attributes":["verbo transitivo"],"definition":"Dotar de fachada a una casa.","examples":[],"word":"fachear"}
+{"number":2,"attributes":["verbo transitivo"],"definition":"Arreglar la fachada de una casa.","examples":[],"word":"fachear"}
+{"number":3,"attributes":["verbo intransitivo","Marina"],"definition":"Dicho de una vela o de una nave: Ponerse en facha.","examples":[],"word":"fachear"}
+{"number":1,"attributes":["nombre femenino coloquial"],"definition":"Vanidad, jactancia.","examples":[],"word":"fachenda"}
+{"number":2,"attributes":["nombre masculino coloquial"],"definition":"Hombre que tiene fachenda.","examples":[],"word":"fachenda"}
+{"number":1,"attributes":["verbo intransitivo","coloquial"],"definition":"Hacer ostentación vanidosa o jactanciosa.","examples":[],"word":"fachendear"}
+{"number":1,"attributes":["adjetivo coloquial","Usado también como sustantivo"],"definition":"Que tiene fachenda.","examples":[],"word":"fachendista"}
+{"number":1,"attributes":["adjetivo coloquial","Usado también como sustantivo"],"definition":"Que tiene fachenda.","examples":[],"word":"fachendona"}
+{"number":1,"attributes":["adjetivo coloquial","Usado también como sustantivo"],"definition":"Que tiene fachenda.","examples":[],"word":"fachendosa"}
+{"number":2,"attributes":["adjetivo","México"],"definition":"Que se viste o hace las cosas con descuido.","examples":[],"word":"fachendosa"}
+{"number":1,"attributes":["adjetivo coloquial","Usado también como sustantivo"],"definition":"Que tiene fachenda.","examples":[],"word":"fachendoso"}
+{"number":2,"attributes":["adjetivo","México"],"definition":"Que se viste o hace las cosas con descuido.","examples":[],"word":"fachendoso"}
+{"number":1,"attributes":["adjetivo coloquial","Usado también como sustantivo"],"definition":"Que tiene fachenda.","examples":[],"word":"fachendón"}
+{"number":1,"attributes":["adjetivo","Costa Rica, Honduras y Nicaragua"],"definition":"jactancioso.","examples":[],"word":"fachenta"}
+{"number":1,"attributes":["nombre femenino","Honduras y Nicaragua"],"definition":"jactancia.","examples":[],"word":"fachentada"}
+{"number":1,"attributes":["adjetivo","Costa Rica, Honduras y Nicaragua"],"definition":"jactancioso.","examples":[],"word":"fachento"}
+{"number":1,"attributes":["nombre masculino","Argentina"],"definition":"Estero o lugar anegadizo cubierto de paja brava, junco y otra vegetación.","examples":[],"word":"fachinal"}
+{"number":1,"attributes":["adjetivo","despectivo o despectiva","coloquial","Argentina, Chile y Uruguay","usado también como sustantivo"],"definition":"facha3. Apl. a pers.,","examples":[],"word":"facho"}
+{"number":2,"attributes":["nombre masculino coloquial","Cuba"],"definition":"robo (‖ acción de robar).","examples":[],"word":"facho"}
+{"number":1,"attributes":["adjetivo coloquial"],"definition":"De mala facha, de figura ridícula.","examples":[],"word":"fachosa"}
+{"number":2,"attributes":["adjetivo","Ecuador"],"definition":"jactancioso.","examples":[],"word":"fachosa"}
+{"number":3,"attributes":["adjetivo","México"],"definition":"Que viste impropiamente.","examples":[],"word":"fachosa"}
+{"number":4,"attributes":["adjetivo","Perú"],"definition":"Elegante, gallardo, de buena planta.","examples":[],"word":"fachosa"}
+{"number":5,"attributes":["adjetivo","Perú"],"definition":"De aspecto y traje vistosos.","examples":[],"word":"fachosa"}
+{"number":1,"attributes":["adjetivo coloquial"],"definition":"De mala facha, de figura ridícula.","examples":[],"word":"fachoso"}
+{"number":2,"attributes":["adjetivo","Ecuador"],"definition":"jactancioso.","examples":[],"word":"fachoso"}
+{"number":3,"attributes":["adjetivo","México"],"definition":"Que viste impropiamente.","examples":[],"word":"fachoso"}
+{"number":4,"attributes":["adjetivo","Perú"],"definition":"Elegante, gallardo, de buena planta.","examples":[],"word":"fachoso"}
+{"number":5,"attributes":["adjetivo","Perú"],"definition":"De aspecto y traje vistosos.","examples":[],"word":"fachoso"}
+{"number":1,"attributes":["adjetivo"],"definition":"De mala facha, de mala traza.","examples":[],"word":"fachuda"}
+{"number":2,"attributes":["adjetivo","México y Uruguay"],"definition":"Que viste de manera ridícula.","examples":[],"word":"fachuda"}
+{"number":1,"attributes":["adjetivo"],"definition":"De mala facha, de mala traza.","examples":[],"word":"fachudo"}
+{"number":2,"attributes":["adjetivo","México y Uruguay"],"definition":"Que viste de manera ridícula.","examples":[],"word":"fachudo"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo a la cara o el rostro.","examples":[],"word":"facial"}
+{"number":2,"attributes":["adjetivo","desusado"],"definition":"intuitivo (‖ perteneciente a la intuición).","examples":[],"word":"facial"}
+{"number":1,"attributes":["nombre femenino desusado"],"definition":"hacienda.","examples":[],"word":"facienda"}
+{"number":2,"attributes":["nombre femenino","desusado"],"definition":"Negocio, asunto.","examples":[],"word":"facienda"}
+{"number":3,"attributes":["nombre femenino","desusado"],"definition":"Hecho de armas, pelea.","examples":[],"word":"facienda"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Apariencia externa de algo.","examples":[],"word":"facies"}
+{"number":2,"attributes":["nombre femenino","Medicina"],"definition":"Aspecto del semblante que revela alguna alteración o enfermedad del organismo.","examples":[],"word":"facies"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Cualidad de fácil.","examples":[],"word":"facilidad"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Disposición para hacer algo sin gran trabajo.","examples":[],"word":"facilidad"}
+{"number":3,"attributes":["nombre femenino"],"definition":"Ligereza, demasiada condescendencia.","examples":[],"word":"facilidad"}
+{"number":4,"attributes":["nombre femenino"],"definition":"Oportunidad, ocasión propicia para hacer algo.","examples":[],"word":"facilidad"}
+{"number":5,"attributes":["nombre femenino","plural"],"definition":"Condiciones especiales que permiten lograr algo o alcanzar un fin con menor esfuerzo.","examples":["Facilidades de pago."],"word":"facilidad"}
+{"number":1,"attributes":["adjetivo","irónico o irónica"],"definition":"difícil (‖ que presenta obstáculos).","examples":[],"word":"facililla"}
+{"number":1,"attributes":["adjetivo","irónico o irónica"],"definition":"difícil (‖ que presenta obstáculos).","examples":[],"word":"facilillo"}
+{"number":1,"attributes":["nombre masculino","Argentina, Colombia, Cuba, Ecuador, Honduras, Perú, Uruguay y Venezuela"],"definition":"Tendencia a hacer o lograr algo sin mucho esfuerzo, de manera fácil y sin sacrificio.","examples":[],"word":"facilismo"}
+{"number":1,"attributes":["adjetivo","Argentina, Colombia, Cuba, Ecuador, Honduras, Perú, Uruguay y Venezuela","Usado también como sustantivo"],"definition":"Dicho de una persona: Que se esfuerza poco.","examples":[],"word":"facilista"}
+{"number":2,"attributes":["adjetivo","Argentina, Colombia, Cuba, Ecuador, Honduras, Perú, Uruguay y Venezuela"],"definition":"Dicho de una cosa: Superficial o poco elaborada.","examples":[],"word":"facilista"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Acción de facilitar algo.","examples":[],"word":"facilitación"}
+{"number":1,"attributes":["nombre masculino y femenino","Cuba, Honduras, República Dominicana y Venezuela"],"definition":"Persona que se desempeña como instructor u orientador en una actividad.","examples":[],"word":"facilitador"}
+{"number":2,"attributes":["nombre masculino y femenino","Venezuela"],"definition":"Profesor o maestro.","examples":[],"word":"facilitador"}
+{"number":1,"attributes":["nombre masculino y femenino","Cuba, Honduras, República Dominicana y Venezuela"],"definition":"Persona que se desempeña como instructor u orientador en una actividad.","examples":[],"word":"facilitadora"}
+{"number":2,"attributes":["nombre masculino y femenino","Venezuela"],"definition":"Profesor o maestro.","examples":[],"word":"facilitadora"}
+{"number":1,"attributes":["verbo transitivo"],"definition":"Hacer fácil o posible la ejecución de algo o la consecución de un fin.","examples":[],"word":"facilitar"}
+{"number":2,"attributes":["verbo transitivo"],"definition":"Proporcionar o entregar.","examples":[],"word":"facilitar"}
+{"number":1,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Que presume de facilitar la ejecución de las cosas.","examples":[],"word":"facilitona"}
+{"number":2,"attributes":["adjetivo","coloquial","Usado también como sustantivo"],"definition":"Que todo lo cree fácil.","examples":[],"word":"facilitona"}
+{"number":1,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Que presume de facilitar la ejecución de las cosas.","examples":[],"word":"facilitón"}
+{"number":2,"attributes":["adjetivo","coloquial","Usado también como sustantivo"],"definition":"Que todo lo cree fácil.","examples":[],"word":"facilitón"}
+{"number":1,"attributes":["adjetivo coloquial"],"definition":"Excesivamente fácil o sencillo.","examples":[],"word":"facilona"}
+{"number":1,"attributes":["adjetivo coloquial"],"definition":"Excesivamente fácil o sencillo.","examples":[],"word":"facilón"}
+{"number":1,"attributes":["nombre masculino desusado"],"definition":"Acción y efecto de hacer algo.","examples":[],"word":"facimiento"}
+{"number":2,"attributes":["nombre masculino","desusado"],"definition":"Trato o comunicación familiar.","examples":[],"word":"facimiento"}
+{"number":3,"attributes":["nombre masculino","desusado"],"definition":"Cópula carnal.","examples":[],"word":"facimiento"}
+{"number":1,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Delincuente habitual.","examples":[],"word":"facinerosa"}
+{"number":2,"attributes":["nombre masculino y femenino"],"definition":"Persona malvada o de perversa condición.","examples":[],"word":"facinerosa"}
+{"number":1,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Delincuente habitual.","examples":[],"word":"facineroso"}
+{"number":2,"attributes":["nombre masculino y femenino"],"definition":"Persona malvada o de perversa condición.","examples":[],"word":"facineroso"}
+{"number":1,"attributes":["adjetivo desusado"],"definition":"facineroso. Era u. t. c. s.","examples":[],"word":"facinorosa"}
+{"number":1,"attributes":["adjetivo desusado"],"definition":"facineroso. Era u. t. c. s.","examples":[],"word":"facinoroso"}
+{"number":1,"attributes":["nombre masculino desusado"],"definition":"facistol.","examples":[],"word":"facistelo"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Atril grande en que se ponen el libro o libros para cantar en la iglesia y que, en el caso del que sirve para el coro, suele tener cuatro caras que permiten colocar varios volúmenes.","examples":[],"word":"facistol"}
+{"number":2,"attributes":["nombre masculino","desusado"],"definition":"faldistorio.","examples":[],"word":"facistol"}
+{"number":1,"attributes":["nombre femenino desusado"],"definition":"facción (‖ parte del rostro humano).","examples":[],"word":"fación"}
+{"number":2,"attributes":["nombre femenino","desusado"],"definition":"facción (‖ acción de guerra).","examples":[],"word":"fación"}
+{"number":3,"attributes":["nombre femenino","desusado"],"definition":"Acción y efecto de hacer.","examples":[],"word":"fación"}
+{"number":1,"attributes":["adjetivo"],"definition":"Dicho de una reproducción: En facsímil.","examples":[],"word":"facsimilar"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Perfecta imitación o reproducción de una firma, de un escrito, de un dibujo, de un impreso, etc.","examples":[],"word":"facsímil"}
+{"number":2,"attributes":["nombre masculino"],"definition":"fax.","examples":[],"word":"facsímil"}
+{"number":1,"attributes":["nombre masculino"],"definition":"facsímil.","examples":[],"word":"facsímile"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Cualidad o condición de factible.","examples":[],"word":"factibilidad"}
+{"number":1,"attributes":["adjetivo"],"definition":"Que se puede hacer.","examples":[],"word":"factible"}
+{"number":1,"attributes":["adjetivo"],"definition":"artificial (‖ no natural).","examples":[],"word":"facticia"}
+{"number":2,"attributes":["adjetivo"],"definition":"Dicho de un libro o volumen: Que recoge libros o impresos diversos.","examples":[],"word":"facticia"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Cualidad de fáctico.","examples":[],"word":"facticidad"}
+{"number":2,"attributes":["nombre femenino","Filosofía"],"definition":"Carácter contingente de algunos hechos.","examples":[],"word":"facticidad"}
+{"number":1,"attributes":["adjetivo"],"definition":"artificial (‖ no natural).","examples":[],"word":"facticio"}
+{"number":2,"attributes":["adjetivo"],"definition":"Dicho de un libro o volumen: Que recoge libros o impresos diversos.","examples":[],"word":"facticio"}
+{"number":1,"attributes":["nombre masculino desusado"],"definition":"El hecho, en contraste con el dicho o con lo pensado.","examples":[],"word":"facto"}
+{"number":2,"attributes":["nombre masculino","desusado"],"definition":"Negocio, provecho.","examples":[],"word":"facto"}
+{"number":1,"attributes":["nombre masculino y femenino"],"definition":"En las estaciones de ferrocarril, empleado que se ocupa de la recepción, expedición y entrega de los equipajes y mercancías.","examples":[],"word":"factor"}
+{"number":2,"attributes":["nombre masculino y femenino","poco usado"],"definition":"Persona que hace algo.","examples":[],"word":"factor"}
+{"number":3,"attributes":["nombre masculino"],"definition":"Elemento o causa que actúan junto con otros.","examples":["El factor que más influyó en la decisión fue su preparación académica."],"word":"factor"}
+{"number":4,"attributes":["nombre masculino"],"definition":"Oficial real que en las Indias recaudaba las rentas y rendía los tributos en especie pertenecientes a la Corona.","examples":[],"word":"factor"}
+{"number":5,"attributes":["nombre masculino"],"definition":"Dependiente del comisario de guerra o del asentista, que se ocupaba de la distribución de víveres a la tropa.","examples":[],"word":"factor"}
+{"number":6,"attributes":["nombre masculino","Matemáticas"],"definition":"Cada una de las cantidades o expresiones que se multiplican para obtener un producto.","examples":[],"word":"factor"}
+{"number":7,"attributes":["nombre masculino","Matemáticas"],"definition":"divisor.","examples":[],"word":"factor"}
+{"number":8,"attributes":["nombre masculino","poco usado"],"definition":"Capataz o persona que administra bienes ajenos.","examples":[],"word":"factor"}
+{"number":9,"attributes":["nombre masculino","desusado"],"definition":"Persona que comercia por cuenta ajena.","examples":[],"word":"factor"}
+{"number":10,"attributes":["nombre masculino","plural","Cuba"],"definition":"Representantes de los diferentes órganos de dirección de una empresa o de una institución.","examples":[],"word":"factor"}
+{"number":1,"attributes":["nombre masculino y femenino"],"definition":"En las estaciones de ferrocarril, empleado que se ocupa de la recepción, expedición y entrega de los equipajes y mercancías.","examples":[],"word":"factora"}
+{"number":2,"attributes":["nombre masculino y femenino","poco usado"],"definition":"Persona que hace algo.","examples":[],"word":"factora"}
+{"number":3,"attributes":["nombre masculino"],"definition":"Elemento o causa que actúan junto con otros.","examples":["El factor que más influyó en la decisión fue su preparación académica."],"word":"factora"}
+{"number":4,"attributes":["nombre masculino"],"definition":"Oficial real que en las Indias recaudaba las rentas y rendía los tributos en especie pertenecientes a la Corona.","examples":[],"word":"factora"}
+{"number":5,"attributes":["nombre masculino"],"definition":"Dependiente del comisario de guerra o del asentista, que se ocupaba de la distribución de víveres a la tropa.","examples":[],"word":"factora"}
+{"number":6,"attributes":["nombre masculino","Matemáticas"],"definition":"Cada una de las cantidades o expresiones que se multiplican para obtener un producto.","examples":[],"word":"factora"}
+{"number":7,"attributes":["nombre masculino","Matemáticas"],"definition":"divisor.","examples":[],"word":"factora"}
+{"number":8,"attributes":["nombre masculino","poco usado"],"definition":"Capataz o persona que administra bienes ajenos.","examples":[],"word":"factora"}
+{"number":9,"attributes":["nombre masculino","desusado"],"definition":"Persona que comercia por cuenta ajena.","examples":[],"word":"factora"}
+{"number":10,"attributes":["nombre masculino","plural","Cuba"],"definition":"Representantes de los diferentes órganos de dirección de una empresa o de una institución.","examples":[],"word":"factora"}
+{"number":1,"attributes":["nombre masculino desusado"],"definition":"Empleo y cargo del factor (‖ que comercia por cuenta ajena).","examples":[],"word":"factoraje"}
+{"number":2,"attributes":["nombre masculino","desusado"],"definition":"Oficina del factor (‖ que comercia por cuenta ajena).","examples":[],"word":"factoraje"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo a uno o varios factores (‖ elementos o causas).","examples":["Consideración factorial del problema del paro."],"word":"factorial"}
+{"number":2,"attributes":["adjetivo","Matemáticas"],"definition":"Perteneciente o relativo a uno o varios factores (‖ cantidades que se multiplican).","examples":["Cálculo factorial."],"word":"factorial"}
+{"number":3,"attributes":["nombre masculino","Matemáticas"],"definition":"Producto que resulta de multiplicar un número entero positivo dado por todos los enteros inferiores a él hasta el uno. (Símb. !).","examples":["El factorial de 4 es 4! = 4 × 3 × 2 × 1 = 24."],"word":"factorial"}
+{"number":1,"attributes":["nombre femenino","Matemáticas"],"definition":"Acción y efecto de factorizar.","examples":[],"word":"factorización"}
+{"number":1,"attributes":["verbo transitivo","Matemáticas"],"definition":"Descomponer un número, un polinomio, una matriz u otros entes matemáticos como producto de otros.","examples":[],"word":"factorizar"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Fábrica o complejo industrial.","examples":[],"word":"factoría"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Establecimiento de comercio, especialmente el situado en país colonial.","examples":[],"word":"factoría"}
+{"number":3,"attributes":["nombre femenino","Perú"],"definition":"Taller de reparación de vehículos automotores.","examples":[],"word":"factoría"}
+{"number":4,"attributes":["nombre femenino","desusado"],"definition":"Cargo del factor (‖ que comercia por cuenta ajena).","examples":[],"word":"factoría"}
+{"number":5,"attributes":["nombre femenino","desusado"],"definition":"Oficina del factor (‖ que comercia por cuenta ajena).","examples":[],"word":"factoría"}
+{"number":1,"attributes":["adjetivo"],"definition":"fáctico (‖ perteneciente a los hechos).","examples":[],"word":"factual"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Cuenta en que se detallan con su precio los artículos vendidos o los servicios realizados y que se entrega al cliente para exigir su pago.","examples":[],"word":"factura"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Modo de estar hecho o ejecutado algo. U. m. en arte y artesanía.","examples":["Retrato de buena factura."],"word":"factura"}
+{"number":3,"attributes":["nombre femenino","Argentina y Uruguay"],"definition":"Bollo o bizcocho que se fabrica y vende en las panaderías.","examples":[],"word":"factura"}
+{"number":4,"attributes":["nombre femenino","Cuba"],"definition":"Conjunto de artículos de primera necesidad que se adquieren de una vez para consumirlos en un período de tiempo determinado.","examples":[],"word":"factura"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Acción y efecto de facturar.","examples":[],"word":"facturación"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Suma o conjunto de objetos facturados.","examples":[],"word":"facturación"}
+{"number":1,"attributes":["verbo transitivo"],"definition":"Extender las facturas.","examples":[],"word":"facturar"}
+{"number":2,"attributes":["verbo transitivo"],"definition":"Incluir en una factura cada artículo, bulto u objeto.","examples":[],"word":"facturar"}
+{"number":3,"attributes":["verbo transitivo"],"definition":"En estaciones de ferrocarril, aeropuertos, etc., registrar y entregar equipajes y mercancías para que sean remitidos a su destino.","examples":[],"word":"facturar"}
+{"number":1,"attributes":["nombre masculino y femenino"],"definition":"Persona de plena confianza de otra y que en nombre de esta despacha sus principales negocios.","examples":[],"word":"factótum"}
+{"number":2,"attributes":["nombre masculino y femenino","coloquial"],"definition":"Persona que desempeña en una casa o dependencia todos los menesteres.","examples":[],"word":"factótum"}
+{"number":3,"attributes":["nombre masculino y femenino","coloquial"],"definition":"Persona entremetida, que oficiosamente se presta a todo género de servicios.","examples":[],"word":"factótum"}
+{"number":1,"attributes":["adjetivo coloquial","República Dominicana y Venezuela","Usado también como sustantivo"],"definition":"Experto, capaz en alguna actividad.","examples":[],"word":"faculta"}
+{"number":2,"attributes":["nombre masculino y femenino","coloquial","República Dominicana y Venezuela"],"definition":"curandero (‖ persona que ejerce prácticas curativas).","examples":[],"word":"faculta"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Aptitud, potencia física o moral. U. m. en pl.","examples":[],"word":"facultad"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Poder o derecho para hacer algo.","examples":[],"word":"facultad"}
+{"number":3,"attributes":["nombre femenino"],"definition":"Cada una de las divisiones académicas de una universidad, en la que se agrupan los estudios de una carrera determinada.","examples":[],"word":"facultad"}
+{"number":4,"attributes":["nombre femenino"],"definition":"Local o conjunto de locales en que funciona una facultad universitaria.","examples":[],"word":"facultad"}
+{"number":5,"attributes":["nombre femenino"],"definition":"En las universidades, cuerpo de doctores o maestros de una ciencia.","examples":[],"word":"facultad"}
+{"number":6,"attributes":["nombre femenino"],"definition":"Conjunto de personas que conforman una facultad universitaria.","examples":["La facultad en pleno se sumó al homenaje."],"word":"facultad"}
+{"number":7,"attributes":["nombre femenino"],"definition":"facultad real.","examples":[],"word":"facultad"}
+{"number":8,"attributes":["nombre femenino"],"definition":"licencia (‖ permiso).","examples":[],"word":"facultad"}
+{"number":9,"attributes":["nombre femenino","Biología"],"definition":"Fuerza, resistencia.","examples":["El estómago no tiene facultad para digerir el alimento."],"word":"facultad"}
+{"number":10,"attributes":["nombre femenino","desusado"],"definition":"caudal (‖ hacienda). Era u. m. en pl.","examples":[],"word":"facultad"}
+{"number":11,"attributes":["nombre femenino","desusado"],"definition":"Conjunto de los médicos, cirujanos y boticarios de la cámara del rey.","examples":[],"word":"facultad"}
+{"number":1,"attributes":["verbo transitivo"],"definition":"Conceder facultades a alguien para hacer lo que sin tal requisito no podría.","examples":[],"word":"facultar"}
+{"number":1,"attributes":["adjetivo"],"definition":"Opcional, no obligatorio.","examples":["La asistencia a clase es facultativa."],"word":"facultativa"}
+{"number":2,"attributes":["adjetivo"],"definition":"Que se deriva o depende de la facultad o poder para hacer algo.","examples":["Designación facultativa del Gobierno."],"word":"facultativa"}
+{"number":3,"attributes":["adjetivo"],"definition":"Perteneciente o relativo al médico.","examples":["Recomendación facultativa."],"word":"facultativa"}
+{"number":4,"attributes":["adjetivo"],"definition":"Dicho de una persona: Que trabaja al servicio del Estado en un puesto para el que se requieren determinados estudios. U. m. c. s.","examples":["Cuerpo de facultativos archiveros."],"word":"facultativa"}
+{"number":5,"attributes":["adjetivo"],"definition":"Especializado, técnico.","examples":["Términos facultativos.","Voces facultativas."],"word":"facultativa"}
+{"number":6,"attributes":["adjetivo","poco usado"],"definition":"Dicho de una persona: Experta, entendida. U. m. c. s.","examples":[],"word":"facultativa"}
+{"number":7,"attributes":["nombre masculino y femenino"],"definition":"Persona titulada en medicina y que ejerce como tal.","examples":[],"word":"facultativa"}
+{"number":1,"attributes":["adverbio"],"definition":"De modo facultativo u opcional.","examples":["Los trabajadores pueden afiliarse facultativamente a un sindicato."],"word":"facultativamente"}
+{"number":2,"attributes":["adverbio"],"definition":"De manera propia de un facultativo médico.","examples":["La ausencia por enfermedad deberá justificarse facultativamente."],"word":"facultativamente"}
+{"number":3,"attributes":["adverbio","desusado"],"definition":"Según los principios y reglas de una ciencia o profesión.","examples":[],"word":"facultativamente"}
+{"number":1,"attributes":["adjetivo"],"definition":"Opcional, no obligatorio.","examples":["La asistencia a clase es facultativa."],"word":"facultativo"}
+{"number":2,"attributes":["adjetivo"],"definition":"Que se deriva o depende de la facultad o poder para hacer algo.","examples":["Designación facultativa del Gobierno."],"word":"facultativo"}
+{"number":3,"attributes":["adjetivo"],"definition":"Perteneciente o relativo al médico.","examples":["Recomendación facultativa."],"word":"facultativo"}
+{"number":4,"attributes":["adjetivo"],"definition":"Dicho de una persona: Que trabaja al servicio del Estado en un puesto para el que se requieren determinados estudios. U. m. c. s.","examples":["Cuerpo de facultativos archiveros."],"word":"facultativo"}
+{"number":5,"attributes":["adjetivo"],"definition":"Especializado, técnico.","examples":["Términos facultativos.","Voces facultativas."],"word":"facultativo"}
+{"number":6,"attributes":["adjetivo","poco usado"],"definition":"Dicho de una persona: Experta, entendida. U. m. c. s.","examples":[],"word":"facultativo"}
+{"number":7,"attributes":["nombre masculino y femenino"],"definition":"Persona titulada en medicina y que ejerce como tal.","examples":[],"word":"facultativo"}
+{"number":1,"attributes":["adjetivo coloquial","República Dominicana y Venezuela","Usado también como sustantivo"],"definition":"Experto, capaz en alguna actividad.","examples":[],"word":"faculto"}
+{"number":2,"attributes":["nombre masculino y femenino","coloquial","República Dominicana y Venezuela"],"definition":"curandero (‖ persona que ejerce prácticas curativas).","examples":[],"word":"faculto"}
+{"number":1,"attributes":["adjetivo","despectivo o despectiva","coloquial","Cuba"],"definition":"Dicho de una persona: Que se atribuye facultades que no le corresponden o se excede en el uso de las que se le han asignado.","examples":[],"word":"facultosa"}
+{"number":2,"attributes":["adjetivo","desusado"],"definition":"Que tiene muchos bienes o caudales.","examples":[],"word":"facultosa"}
+{"number":1,"attributes":["adjetivo","despectivo o despectiva","coloquial","Cuba"],"definition":"Dicho de una persona: Que se atribuye facultades que no le corresponden o se excede en el uso de las que se le han asignado.","examples":[],"word":"facultoso"}
+{"number":2,"attributes":["adjetivo","desusado"],"definition":"Que tiene muchos bienes o caudales.","examples":[],"word":"facultoso"}
+{"number":1,"attributes":["adjetivo"],"definition":"Fácil y desenvuelto en el hablar.","examples":[],"word":"facunda"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Facilidad y desenvoltura en el hablar.","examples":[],"word":"facundia"}
+{"number":1,"attributes":["adjetivo"],"definition":"Fácil y desenvuelto en el hablar.","examples":[],"word":"facundo"}
+{"number":1,"attributes":["nombre masculino","Argentina, Paraguay y Uruguay"],"definition":"Cuchillo grande, recto y puntiagudo.","examples":[],"word":"facón"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Hada, maga, hechicera.","examples":[],"word":"fada"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Variedad de camuesa pequeña con la que se hace en Galicia una conserva muy estimada.","examples":[],"word":"fada"}
+{"number":1,"attributes":["nombre femenino","Derecho"],"definition":"Tanteo y retracto que las leyes de la corona de Aragón reconocían a los poseedores del dominio directo en la enfiteusis, y a los señores en los feudos, cuando el enfiteuta o el vasallo enajenaban sus derechos.","examples":[],"word":"fadiga"}
+{"number":2,"attributes":["nombre femenino","Derecho"],"definition":"Cantidad que en algunos casos percibían el dueño directo o el señor por la renuncia de su derecho de prelación en las enajenaciones de enfiteusis y feudos.","examples":[],"word":"fadiga"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo al fado.","examples":[],"word":"fadista"}
+{"number":2,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Aficionado al fado.","examples":[],"word":"fadista"}
+{"number":3,"attributes":["nombre masculino y femenino"],"definition":"Autor o intérprete de fados.","examples":[],"word":"fadista"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Canción popular portuguesa, especialmente lisboeta, de carácter triste y fatalista.","examples":[],"word":"fado"}
+{"number":1,"attributes":["adjetivo desusado"],"definition":"Estropeado, desconcertado, descoyuntado.","examples":[],"word":"fadrubada"}
+{"number":1,"attributes":["adjetivo desusado"],"definition":"Estropeado, desconcertado, descoyuntado.","examples":[],"word":"fadrubado"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Trabajo corporal.","examples":[],"word":"faena"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Trabajo mental.","examples":[],"word":"faena"}
+{"number":3,"attributes":["nombre femenino"],"definition":"quehacer. U. m. en pl.","examples":[],"word":"faena"}
+{"number":4,"attributes":["nombre femenino"],"definition":"Acción y efecto de faenar (‖ matar reses).","examples":[],"word":"faena"}
+{"number":5,"attributes":["nombre femenino"],"definition":"Mala pasada.","examples":[],"word":"faena"}
+{"number":6,"attributes":["nombre femenino"],"definition":"Servicio que se hace a alguien.","examples":[],"word":"faena"}
+{"number":7,"attributes":["nombre femenino","Tauromaquia"],"definition":"En el campo, cada una de las operaciones que se verifican con el toro.","examples":[],"word":"faena"}
+{"number":8,"attributes":["nombre femenino","Tauromaquia"],"definition":"En la plaza, cada una de las operaciones que efectúa el diestro durante la lidia, y principalmente la brega con la muleta, preliminar de la estocada.","examples":[],"word":"faena"}
+{"number":9,"attributes":["nombre femenino","Guatemala"],"definition":"Trabajo que se hace en una hacienda en horas extraordinarias.","examples":[],"word":"faena"}
+{"number":1,"attributes":["verbo transitivo"],"definition":"Matar reses y descuartizarlas o prepararlas para el consumo.","examples":[],"word":"faenar"}
+{"number":2,"attributes":["verbo intransitivo"],"definition":"Hacer los trabajos de la pesca marina.","examples":[],"word":"faenar"}
+{"number":3,"attributes":["verbo intransitivo"],"definition":"Dicho de la marinería: Realizar sus trabajos.","examples":[],"word":"faenar"}
+{"number":4,"attributes":["verbo intransitivo"],"definition":"Laborar, trabajar.","examples":[],"word":"faenar"}
+{"number":1,"attributes":["adjetivo","Andalucía"],"definition":"Dedicado a la faena de la recolección o vendeja de una cosecha.","examples":[],"word":"faenera"}
+{"number":2,"attributes":["nombre masculino y femenino","Andalucía"],"definition":"Obrero del campo.","examples":[],"word":"faenera"}
+{"number":1,"attributes":["adjetivo","Andalucía"],"definition":"Dedicado a la faena de la recolección o vendeja de una cosecha.","examples":[],"word":"faenero"}
+{"number":2,"attributes":["nombre masculino y femenino","Andalucía"],"definition":"Obrero del campo.","examples":[],"word":"faenero"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Carruaje descubierto, de cuatro ruedas, alto y ligero.","examples":[],"word":"faetón"}
+{"number":1,"attributes":["adjetivo","Venezuela"],"definition":"Dicho de una persona: jactanciosa.","examples":[],"word":"fafarachera"}
+{"number":1,"attributes":["adjetivo","Venezuela"],"definition":"Dicho de una persona: jactanciosa.","examples":[],"word":"fafarachero"}
+{"number":1,"attributes":["nombre masculino","Biología"],"definition":"bacteriófago.","examples":[],"word":"fago"}
+{"number":1,"attributes":["elementos compositivos"],"definition":"Significa 'que come'.","examples":["Fagocito.","Necrófago."],"word":"fago-"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Acción de fagocitar.","examples":[],"word":"fagocitación"}
+{"number":1,"attributes":["verbo transitivo","Biología"],"definition":"Dicho de ciertas células u organismos unicelulares: Alimentarse de algo por fagocitosis.","examples":[],"word":"fagocitar"}
+{"number":2,"attributes":["verbo transitivo"],"definition":"absorber (‖ subsumir, incorporar).","examples":[],"word":"fagocitar"}
+{"number":1,"attributes":["nombre masculino","Biología"],"definition":"Cada una de las células que se hallan en la sangre y en muchos tejidos animales, capaces de apoderarse, mediante la emisión de seudópodos, de bacterias, cadáveres celulares y, en general, de toda clase de partículas nocivas o inútiles para el organismo, incluyéndolas en su citoplasma y digiriéndolas después.","examples":[],"word":"fagocito"}
+{"number":1,"attributes":["nombre femenino","Biología"],"definition":"Captura de partículas microscópicas que realizan ciertas células con fines alimenticios o de defensa, mediante la emisión de seudópodos.","examples":[],"word":"fagocitosis"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Instrumento musical de viento, formado por un tubo de madera de unos siete centímetros de grueso y más de un metro de largo, con agujeros y llaves, y con una boquilla de caña puesta en un tudel.","examples":[],"word":"fagot"}
+{"number":2,"attributes":["nombre masculino y femenino"],"definition":"fagotista.","examples":[],"word":"fagot"}
+{"number":1,"attributes":["nombre masculino poco usado"],"definition":"fagot.","examples":[],"word":"fagote"}
+{"number":2,"attributes":["nombre masculino y femenino","poco usado"],"definition":"fagot.","examples":[],"word":"fagote"}
+{"number":1,"attributes":["nombre masculino y femenino"],"definition":"Persona que toca el fagot.","examples":[],"word":"fagotista"}
+{"number":1,"attributes":["adjetivo","Botánica","Usado también como sustantivo femenino, en plural como taxón"],"definition":"Dicho de un árbol o de un arbusto: Del grupo de las angiospermas dicotiledóneas, que se distingue por sus hojas sencillas, casi siempre alternas, flores monoicas y fruto indehiscente, con semilla sin albumen, y más o menos cubierto por la cúpula; p. ej., la encina o el castaño.","examples":[],"word":"fagácea"}
+{"number":1,"attributes":["adjetivo","Botánica","Usado también como sustantivo femenino, en plural como taxón"],"definition":"Dicho de un árbol o de un arbusto: Del grupo de las angiospermas dicotiledóneas, que se distingue por sus hojas sencillas, casi siempre alternas, flores monoicas y fruto indehiscente, con semilla sin albumen, y más o menos cubierto por la cúpula; p. ej., la encina o el castaño.","examples":[],"word":"fagáceo"}
+{"number":1,"attributes":["nombre masculino","Aragón"],"definition":"favonio.","examples":[],"word":"fagüeño"}
+{"number":1,"attributes":["nombre masculino","Ecuador"],"definition":"Terreno poblado de faiques.","examples":[],"word":"faical"}
+{"number":1,"attributes":["nombre femenino coloquial","Cuba"],"definition":"mentecatería. U. m. en sent. despect.","examples":[],"word":"fainada"}
+{"number":1,"attributes":["nombre femenino coloquial","Cuba","Usado también en sentido despectivo"],"definition":"mentecatería.","examples":[],"word":"fainera"}
+{"number":1,"attributes":["nombre femenino coloquial","Cuba","Usado también en sentido despectivo"],"definition":"mentecatería.","examples":[],"word":"fainería"}
+{"number":1,"attributes":["adjetivo","despectivo o despectiva","coloquial","Cuba","Usado también como sustantivo"],"definition":"mentecato.","examples":[],"word":"faino"}
+{"number":1,"attributes":["nombre masculino","Ecuador y Perú"],"definition":"Árbol de la familia de las mimosáceas.","examples":[],"word":"faique"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Juego limpio.","examples":[],"word":"fair play"}
+{"number":1,"attributes":["nombre masculino y femenino"],"definition":"Ave del orden de las galliformes, del tamaño de un gallo, con un penacho de plumas en la cabeza, cola muy larga y tendida, plumaje de vivos colores en el macho, y muy apreciada por su carne. U. en m. ref. a la especie.","examples":[],"word":"faisana"}
+{"number":2,"attributes":["nombre masculino"],"definition":"urogallo.","examples":[],"word":"faisana"}
+{"number":3,"attributes":["nombre masculino","Córdoba y Sevilla"],"definition":"Hongo comestible de color pardo que se cría en los jarales.","examples":[],"word":"faisana"}
+{"number":1,"attributes":["nombre masculino","Cantabria"],"definition":"fisán.","examples":[],"word":"faisana"}
+{"number":1,"attributes":["nombre masculino y femenino"],"definition":"Persona que se dedica a la cría y venta de faisanes.","examples":[],"word":"faisanera"}
+{"number":1,"attributes":["nombre masculino y femenino"],"definition":"Persona que se dedica a la cría y venta de faisanes.","examples":[],"word":"faisanero"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Corral o cercado para los faisanes.","examples":[],"word":"faisanería"}
+{"number":1,"attributes":["nombre masculino y femenino"],"definition":"Ave del orden de las galliformes, del tamaño de un gallo, con un penacho de plumas en la cabeza, cola muy larga y tendida, plumaje de vivos colores en el macho, y muy apreciada por su carne. U. en m. ref. a la especie.","examples":[],"word":"faisán"}
+{"number":2,"attributes":["nombre masculino"],"definition":"urogallo.","examples":[],"word":"faisán"}
+{"number":3,"attributes":["nombre masculino","Córdoba y Sevilla"],"definition":"Hongo comestible de color pardo que se cría en los jarales.","examples":[],"word":"faisán"}
+{"number":1,"attributes":["nombre masculino","Cantabria"],"definition":"fisán.","examples":[],"word":"faisán"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Tira de tela o tejido con que se rodea el cuerpo por la cintura, dándole una o varias vueltas.","examples":[],"word":"faja"}
+{"number":2,"attributes":["nombre femenino"],"definition":"faja que se emplea como insignia propia de un cargo civil, militar o eclesiástico.","examples":[],"word":"faja"}
+{"number":3,"attributes":["nombre femenino"],"definition":"Prenda interior elástica que ciñe la cintura o la cintura y las caderas.","examples":[],"word":"faja"}
+{"number":4,"attributes":["nombre femenino"],"definition":"Franja mucho más larga que ancha; p. ej., cada una de las que forman las divisiones del globo celeste o terrestre.","examples":[],"word":"faja"}
+{"number":5,"attributes":["nombre femenino"],"definition":"Tira de papel que, en vez de cubierta o sobre, se pone al libro, periódico o impreso de cualquier clase que se ha de enviar de una parte a otra, y especialmente cuando ha de ir por el correo.","examples":[],"word":"faja"}
+{"number":6,"attributes":["nombre femenino"],"definition":"Tira de papel que se pone sobre la cubierta o la sobrecubierta de un libro, con una breve leyenda impresa alusiva a su contenido o a un galardón que se le ha otorgado.","examples":[],"word":"faja"}
+{"number":7,"attributes":["nombre femenino"],"definition":"Insignia propia de algunos cargos militares, civiles o eclesiásticos, consistente en una faja.","examples":[],"word":"faja"}
+{"number":8,"attributes":["nombre femenino","Arquitectura"],"definition":"Moldura ancha y de poco vuelo.","examples":[],"word":"faja"}
+{"number":9,"attributes":["nombre femenino","Arquitectura"],"definition":"Telar liso que se hace alrededor de las ventanas y arcos de un edificio.","examples":[],"word":"faja"}
+{"number":10,"attributes":["nombre femenino","Heráldica"],"definition":"Pieza honorable que corta el escudo por el centro y ocupa un tercio de su altura.","examples":[],"word":"faja"}
+{"number":11,"attributes":["nombre femenino","Colombia y República Dominicana"],"definition":"Cinturón de cuero ancho que llevan los hombres sobre el pantalón, para llevar monedas y el revólver.","examples":[],"word":"faja"}
+{"number":12,"attributes":["nombre femenino","Cuba"],"definition":"Cinturón de cuero u otro material.","examples":[],"word":"faja"}
+{"number":13,"attributes":["nombre femenino","plural","germanía"],"definition":"azotes (‖ pena que se imponía).","examples":[],"word":"faja"}
+{"number":1,"attributes":["nombre femenino","Canarias, Argentina, Bolivia, Cuba, Ecuador, Panamá, Paraguay, República Dominicana y Venezuela"],"definition":"Acción y efecto de fajar (‖ pegar).","examples":[],"word":"fajada"}
