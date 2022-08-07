@@ -160,7 +160,7 @@ async function main() {
 
   if (partitions.length < os.cpus().length) {
     const chunkSize = Math.ceil(
-      fparts.length / Math.min(os.cpus().length, partitions.flat().length)
+      partitions.length / Math.min(os.cpus().length, partitions.flat().length)
     );
     partitions = splitByChunks(partitions.flat(), chunkSize);
   }
