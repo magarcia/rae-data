@@ -4982,3 +4982,55 @@
 {"number":0,"attributes":[],"definition":"","examples":[],"word":"vídeo"}
 {"number":0,"attributes":[],"definition":"","examples":[],"word":"vítulo"}
 {"number":0,"attributes":[],"definition":"","examples":[],"word":"vómica"}
+{"number":1,"attributes":["nombre femenino","Medicina"],"definition":"Rama de la terapéutica que se ocupa del estudio de las vacunas.","examples":[],"word":"vacunología"}
+{"number":1,"attributes":["nombre masculino y femenino","Medicina"],"definition":"Especialista en vacunología.","examples":[],"word":"vacunóloga"}
+{"number":1,"attributes":["nombre masculino y femenino","Medicina"],"definition":"Especialista en vacunología.","examples":[],"word":"vacunólogo"}
+{"number":1,"attributes":["nombre masculino coloquial","Honduras, México y Nicaragua"],"definition":"Actitud de indiferencia, desinterés o pasividad.","examples":[],"word":"valemadrismo"}
+{"number":1,"attributes":["adjetivo coloquial","Honduras, México y Nicaragua","usado también como sustantivo"],"definition":"Que muestra indiferencia, desinterés o pasividad. Apl. a pers.,","examples":[],"word":"valemadrista"}
+{"number":1,"attributes":["nombre femenino","Medicina"],"definition":"Antibiótico obtenido de la bacteria Streptomyces orientalis, usado en infecciones graves y, especialmente, en pacientes alérgicos a otros antibióticos.","examples":[],"word":"vancomicina"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Dispositivo electrónico para vapear.","examples":[],"word":"vapeador"}
+{"number":2,"attributes":["nombre masculino y femenino"],"definition":"Persona que vapea.","examples":[],"word":"vapeador"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Dispositivo electrónico para vapear.","examples":[],"word":"vapeadora"}
+{"number":2,"attributes":["nombre masculino y femenino"],"definition":"Persona que vapea.","examples":[],"word":"vapeadora"}
+{"number":1,"attributes":["verbo intransitivo"],"definition":"Aspirar y despedir, en sustitución del tabaco, el vapor aromatizado que genera un dispositivo electrónico. U. menos c. tr.","examples":[],"word":"vapear"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Acción o práctica de vapear.","examples":[],"word":"vapeo"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"vaqueana"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"vaqueano"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"vaquiana"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"vaquiano"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"vegana"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"veimaresa"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"velera"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"ventera"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"ventriloquía"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"venusina"}
+{"number":1,"attributes":["adjetivo coloquial","Usado también en sentido despectivo"],"definition":"Que tiene verborrea.","examples":["Orador, discurso verborreico."],"word":"verborreica"}
+{"number":1,"attributes":["adjetivo coloquial","Usado también en sentido despectivo"],"definition":"Que tiene verborrea.","examples":["Orador, discurso verborreico."],"word":"verborreico"}
+{"number":1,"attributes":["adjetivo"],"definition":"De colores cambiantes.","examples":[],"word":"versicolor"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"vestfaliana"}
+{"number":1,"attributes":["verbo transitivo"],"definition":"Hacer viable (‖ que se puede llevar a cabo).","examples":[],"word":"viabilizar"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"viacrucis"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"viandera"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"vicentina"}
+{"number":1,"attributes":["nombre femenino","Informática"],"definition":"videochat.","examples":[],"word":"videocharla"}
+{"number":1,"attributes":["nombre masculino","Informática"],"definition":"Chat que incorpora funciones de video y audio.","examples":[],"word":"videochat"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Comunicación simultánea a través de una red de telecomunicaciones entre dos o más personas, que pueden oírse y verse en la pantalla de un dispositivo electrónico, como un teléfono inteligente o una computadora.","examples":["Pudieron conocer enseguida a su nieto gracias a una videollamada."],"word":"videollamada"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Portero automático con circuito cerrado de televisión.","examples":[],"word":"videoportero"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo a la vigilia (‖ estado de quien se halla despierto).","examples":[],"word":"vigil"}
+{"number":2,"attributes":["adjetivo"],"definition":"Dicho de una persona: Que está despierta.","examples":[],"word":"vigil"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Obsesión patológica por desarrollar la musculatura.","examples":[],"word":"vigorexia"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo a la vigorexia.","examples":["Comportamiento vigoréxico."],"word":"vigoréxica"}
+{"number":2,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Dicho de una persona: Que padece vigorexia.","examples":["Un atleta vigoréxico."],"word":"vigoréxica"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo a la vigorexia.","examples":["Comportamiento vigoréxico."],"word":"vigoréxico"}
+{"number":2,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Dicho de una persona: Que padece vigorexia.","examples":["Un atleta vigoréxico."],"word":"vigoréxico"}
+{"number":1,"attributes":["nombre masculino","Música"],"definition":"Técnica o estilo de interpretación del violín, o de composición de obras para este instrumento, que resultan propios de un determinado autor, de un intérprete o de una época.","examples":[],"word":"violinismo"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo al violín (‖ instrumento musical).","examples":[],"word":"violinística"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo al violín (‖ instrumento musical).","examples":[],"word":"violinístico"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Cualidad de viral (‖ que se difunde con gran rapidez).","examples":[],"word":"viralidad"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"virginiana"}
+{"number":1,"attributes":["verbo transitivo"],"definition":"Añadir vitaminas a algo.","examples":[],"word":"vitaminar"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"vitíligo"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo al voleibol.","examples":[],"word":"voleibolista"}
+{"number":2,"attributes":["nombre masculino y femenino"],"definition":"Jugador de voleibol.","examples":[],"word":"voleibolista"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"vuelacercas"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"vóleibol"}

@@ -12094,3 +12094,103 @@
 {"number":0,"attributes":[],"definition":"","examples":[],"word":"dómino"}
 {"number":0,"attributes":[],"definition":"","examples":[],"word":"desaguisadamente"}
 {"number":0,"attributes":[],"definition":"","examples":[],"word":"desacomodadamente"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"dactiloscopía"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"daiquirí"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Elemento químico radiactivo, de núm. atóm. 110, de muy corta vida media, obtenido artificialmente mediante bombardeo de bismuto con cobalto. (Símb. Ds).","examples":[],"word":"darmstatio"}
+{"number":1,"attributes":["adjetivo coloquial","España"],"definition":"excesivo.","examples":["Esto ya es demasié, no aguanto más."],"word":"demasié"}
+{"number":2,"attributes":["adjetivo","coloquial","España"],"definition":"Excelente, estupendo.","examples":["Mi novio es demasié, estoy encantada con él."],"word":"demasié"}
+{"number":3,"attributes":["adverbio","coloquial","España"],"definition":"Muy bien, estupendamente.","examples":["La otra noche lo pasamos demasié."],"word":"demasié"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"demoniaca"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"demoniaco"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"demonomancía"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"demoscopía"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"depiladora"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"deportiva"}
+{"number":1,"attributes":["adjetivo coloquial","usado también como sustantivo"],"definition":"En política, cercano a las posiciones de la derecha. U. m. en sent. irón. o despect. Apl. a pers.,","examples":["Aunque dice que es socialista, es un derechoso."],"word":"derechosa"}
+{"number":1,"attributes":["adjetivo coloquial","usado también como sustantivo"],"definition":"En política, cercano a las posiciones de la derecha. U. m. en sent. irón. o despect. Apl. a pers.,","examples":["Aunque dice que es socialista, es un derechoso."],"word":"derechoso"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"desa"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"desafectada"}
+{"number":1,"attributes":["nombre femenino","España"],"definition":"desalinizadora.","examples":[],"word":"desalobradora"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"desarrapada"}
+{"number":1,"attributes":["adjetivo","Costa Rica, El Salvador, Honduras y Perú","Usado también como sustantivo masculino"],"definition":"desatascador.","examples":[],"word":"desatoradora"}
+{"number":1,"attributes":["adjetivo","Informática","Usado también como sustantivo masculino"],"definition":"Que se puede descargar.","examples":[],"word":"descargable"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Levantamiento de las medidas impuestas en un confinamiento.","examples":[],"word":"desconfinamiento"}
+{"number":1,"attributes":["verbo transitivo","Usado también como intransitivo y como pronominal"],"definition":"Levantar las medidas de confinamiento impuestas a una población, o a parte de ella, en un territorio u otro lugar.","examples":[],"word":"desconfinar"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"desembolsado"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Descenso o disminución graduales en la extensión, intensidad o magnitud de una situación crítica, o de las medidas para combatirla.","examples":[],"word":"desescalada"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Reducción progresiva de las operaciones militares en un conflicto bélico.","examples":[],"word":"desescalada"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Acción y efecto de desestacionalizar.","examples":[],"word":"desestacionalización"}
+{"number":1,"attributes":["verbo transitivo","Economía"],"definition":"Eliminar la estacionalidad de una serie de datos temporales.","examples":[],"word":"desestacionalizar"}
+{"number":2,"attributes":["verbo transitivo","Usado también como pronominal"],"definition":"Hacer que un producto o negocio deje de estar vinculado a un período concreto del año.","examples":[],"word":"desestacionalizar"}
+{"number":1,"attributes":["nombre femenino","Medicina"],"definition":"Descarga eléctrica que se aplica para restablecer el ritmo cardíaco normal.","examples":[],"word":"desfibrilación"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"deso"}
+{"number":1,"attributes":["verbo transitivo","Informática"],"definition":"Retirar del acceso público un contenido en un entorno digital.","examples":[],"word":"despublicar"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"desta"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"destinada"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"desto"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"destructora"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"desyerbadora"}
+{"number":1,"attributes":["adjetivo","Estadística"],"definition":"Que no es aleatorio o no depende del azar.","examples":[],"word":"determinística"}
+{"number":1,"attributes":["adjetivo","Estadística"],"definition":"Que no es aleatorio o no depende del azar.","examples":[],"word":"determinístico"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"deíxis"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Tratamiento basado en la utilización de la dieta alimentaria para la regulación del organismo de una persona o de un animal.","examples":[],"word":"dietoterapia"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"digitalizadora"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"dionisiaca"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"dionisiaco"}
+{"number":1,"attributes":["nombre femenino","Química"],"definition":"Sustancia altamente tóxica presente en algunos herbicidas.","examples":[],"word":"dioxina"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"dipsomaniaca"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"dipsomaniaco"}
+{"number":1,"attributes":["nombre femenino","Medicina"],"definition":"Trastorno de la capacidad de resolver problemas matemáticos elementales causado por una lesión cerebral.","examples":[],"word":"discalculia"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Aparato portátil para escuchar discos compactos.","examples":[],"word":"discman"}
+{"number":1,"attributes":["nombre femenino","Medicina"],"definition":"Estado de ánimo de tristeza, ansiedad o irritabilidad.","examples":[],"word":"disforia"}
+{"number":1,"attributes":["adjetivo coloquial","Usado también como sustantivo"],"definition":"Dicho de una persona: Que tiene una gran capacidad de disfrute.","examples":[],"word":"disfrutona"}
+{"number":2,"attributes":["adjetivo","coloquial"],"definition":"Que produce mucho disfrute.","examples":[],"word":"disfrutona"}
+{"number":1,"attributes":["adjetivo coloquial","Usado también como sustantivo"],"definition":"Dicho de una persona: Que tiene una gran capacidad de disfrute.","examples":[],"word":"disfrutón"}
+{"number":2,"attributes":["adjetivo","coloquial"],"definition":"Que produce mucho disfrute.","examples":[],"word":"disfrutón"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Cualidad de disfuncional.","examples":[],"word":"disfuncionalidad"}
+{"number":1,"attributes":["adjetivo","Medicina"],"definition":"Perteneciente o relativo a la disforia.","examples":[],"word":"disfórica"}
+{"number":1,"attributes":["adjetivo","Medicina"],"definition":"Perteneciente o relativo a la disforia.","examples":[],"word":"disfórico"}
+{"number":1,"attributes":["nombre femenino","Medicina"],"definition":"Alteración del timbre de voz por causas orgánicas que no son neurológicas, como la modificación de las cavidades de resonancia.","examples":[],"word":"disglosia"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"disgrafía"}
+{"number":1,"attributes":["adjetivo","Física"],"definition":"Dicho de un sistema: Que no conserva su energía debido a pérdidas por fricción u otras causas.","examples":[],"word":"disipativa"}
+{"number":1,"attributes":["adjetivo","Física"],"definition":"Dicho de un sistema: Que no conserva su energía debido a pérdidas por fricción u otras causas.","examples":[],"word":"disipativo"}
+{"number":1,"attributes":["nombre femenino","Medicina"],"definition":"dislipidemia.","examples":[],"word":"dislipemia"}
+{"number":1,"attributes":["nombre femenino","Medicina"],"definition":"Alteración en los niveles normales de lípidos en la sangre.","examples":[],"word":"dislipidemia"}
+{"number":1,"attributes":["nombre femenino","Medicina"],"definition":"Incapacidad parcial para realizar movimientos coordinados.","examples":[],"word":"dispraxia"}
+{"number":1,"attributes":["nombre femenino","Psicología"],"definition":"Trastorno de la afectividad caracterizado por fatiga, insomnio y frecuentes variaciones de humor.","examples":[],"word":"distimia"}
+{"number":1,"attributes":["adjetivo"],"definition":"Que distrae.","examples":[],"word":"distractiva"}
+{"number":1,"attributes":["adjetivo"],"definition":"Que distrae.","examples":[],"word":"distractivo"}
+{"number":1,"attributes":["adjetivo","usado también como sustantivo"],"definition":"Que distrae. Apl. a pers.,","examples":[],"word":"distractor"}
+{"number":1,"attributes":["adjetivo","usado también como sustantivo"],"definition":"Que distrae. Apl. a pers.,","examples":[],"word":"distractora"}
+{"number":1,"attributes":["adjetivo","América"],"definition":"Perteneciente o relativo al distrito.","examples":[],"word":"distrital"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo a la distopía.","examples":[],"word":"distópica"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo a la distopía.","examples":[],"word":"distópico"}
+{"number":1,"attributes":["adjetivo"],"definition":"Que se puede dividir, repartir o fragmentar.","examples":[],"word":"dividible"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Guitarra acústica provista de discos metálicos en la caja para aumentar la resonancia.","examples":[],"word":"dobro"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"doctora"}
+{"number":1,"attributes":["nombre femenino plural","vulgar","España"],"definition":"Pechos de una mujer.","examples":[],"word":"domingas"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"dominica"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"donnadie"}
+{"number":1,"attributes":["nombre femenino"],"definition":"En la Antigüedad clásica, recopilación de opiniones o pareceres de filósofos.","examples":[],"word":"doxografía"}
+{"number":1,"attributes":["nombre masculino"],"definition":"En la Antigüedad clásica, autor de una doxografía.","examples":[],"word":"doxógrafa"}
+{"number":2,"attributes":["nombre masculino y femenino","Filosofía"],"definition":"Recopilador de textos ajenos.","examples":[],"word":"doxógrafa"}
+{"number":1,"attributes":["nombre masculino"],"definition":"En la Antigüedad clásica, autor de una doxografía.","examples":[],"word":"doxógrafo"}
+{"number":2,"attributes":["nombre masculino y femenino","Filosofía"],"definition":"Recopilador de textos ajenos.","examples":[],"word":"doxógrafo"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"doñanadie"}
+{"number":1,"attributes":["adjetivo"],"definition":"Propio o característico de Drácula.","examples":["Colmillos draculinos."],"word":"draculina"}
+{"number":2,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Dicho de una persona: Que actúa maléficamente.","examples":[],"word":"draculina"}
+{"number":1,"attributes":["adjetivo"],"definition":"Propio o característico de Drácula.","examples":["Colmillos draculinos."],"word":"draculino"}
+{"number":2,"attributes":["adjetivo","Usado también como sustantivo"],"definition":"Dicho de una persona: Que actúa maléficamente.","examples":[],"word":"draculino"}
+{"number":1,"attributes":["adjetivo","Deportes","Usado también como sustantivo"],"definition":"Dicho de un jugador de fútbol u otros deportes: regateador.","examples":[],"word":"driblador"}
+{"number":1,"attributes":["adjetivo","Deportes","Usado también como sustantivo"],"definition":"Dicho de un jugador de fútbol u otros deportes: regateador.","examples":[],"word":"dribladora"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"dromomaniaca"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"dromomaniaco"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Acción de dualizar.","examples":[],"word":"dualización"}
+{"number":1,"attributes":["verbo transitivo"],"definition":"Dividir algo en dos partes.","examples":[],"word":"dualizar"}
+{"number":1,"attributes":["nombre masculino","Deportes"],"definition":"Prueba que consiste en una carrera a pie y otra en bicicleta.","examples":[],"word":"duatlón"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"dumdum"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente a las dunas o propio de ellas.","examples":["Vegetación dunar."],"word":"dunar"}
+{"number":2,"attributes":["adjetivo"],"definition":"Que tiene dunas.","examples":["Playa dunar."],"word":"dunar"}
+{"number":1,"attributes":["nombre masculino","Economía"],"definition":"Situación comercial en que solo hay dos compradores para un producto o servicio.","examples":[],"word":"duopsonio"}
+{"number":1,"attributes":["nombre masculino"],"definition":"Vidrio especialmente resistente, muy utilizado en la fabricación de vajillas.","examples":[],"word":"duralex"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"dínamo"}

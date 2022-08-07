@@ -23,7 +23,6 @@ async function gatherDefs(words) {
     locale: "es-ES",
   });
   const page = await context.newPage();
-  const definitions = {};
 
   let def;
   for (const word of words) {
@@ -208,6 +207,10 @@ function getAllRetrievedWords() {
   }
   words.sort();
   return words;
+}
+
+function isLetter(str) {
+  return str.length === 1 && str.match(/[a-z]/i);
 }
 
 main();

@@ -1126,3 +1126,35 @@
 {"number":0,"attributes":[],"definition":"","examples":[],"word":"quáter"}
 {"number":0,"attributes":[],"definition":"","examples":[],"word":"química"}
 {"number":0,"attributes":[],"definition":"","examples":[],"word":"quórum"}
+{"number":1,"attributes":["nombre femenino","Medicina y Química"],"definition":"Reacción química que da como resultado un quelato y que, en medicina, se emplea especialmente para eliminar del organismo los metales pesados.","examples":[],"word":"quelación"}
+{"number":1,"attributes":["adjetivo","Medicina y Química","Usado también como sustantivo masculino"],"definition":"quelante.","examples":[],"word":"quelador"}
+{"number":1,"attributes":["adjetivo","Medicina y Química","Usado también como sustantivo masculino"],"definition":"quelante.","examples":[],"word":"queladora"}
+{"number":1,"attributes":["adjetivo","Medicina y Química","Usado también como sustantivo masculino"],"definition":"Dicho de una sustancia: Capaz de fijar iones metálicos mediante quelación.","examples":["Agente quelante."],"word":"quelante"}
+{"number":1,"attributes":["nombre masculino","Química"],"definition":"Compuesto formado por una molécula orgánica y un ion generalmente metálico.","examples":[],"word":"quelato"}
+{"number":1,"attributes":["adjetivo"],"definition":"Perteneciente o relativo a Francisco de Quevedo, escritor español.","examples":[],"word":"quevedista"}
+{"number":2,"attributes":["nombre masculino y femenino"],"definition":"Especialista en la vida y la obra de Francisco de Quevedo.","examples":[],"word":"quevedista"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Acción de quijotizar o quijotizarse.","examples":[],"word":"quijotización"}
+{"number":1,"attributes":["verbo transitivo"],"definition":"Dar carácter quijotesco a alguien o algo.","examples":["Muchas veces, Cervantes quijotiza a Sancho."],"word":"quijotizar"}
+{"number":2,"attributes":["verbo intransitivo"],"definition":"Actuar alguien como un quijote.","examples":["Pedro quijotiza constantemente."],"word":"quijotizar"}
+{"number":3,"attributes":["verbo pronominal"],"definition":"Tomar alguien o algo carácter quijotesco.","examples":["Sancho se quijotizó junto a su amo."],"word":"quijotizar"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quilométrica"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quimicofísica"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quinesia"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quinesiológica"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quinesioterápica"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quinesiterapia"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quinesiterápica"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quinesiterápico"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quinesióloga"}
+{"number":1,"attributes":["nombre femenino"],"definition":"Planta anual de la familia de las quenopodiáceas, de la que hay varias especies, que tiene flores pequeñas dispuestas en racimos, hojas rómbicas, comestibles cuando están tiernas, y semillas muy abundantes y menudas, también comestibles.","examples":[],"word":"quinoa"}
+{"number":2,"attributes":["nombre femenino"],"definition":"Semilla de la quinoa.","examples":[],"word":"quinoa"}
+{"number":1,"attributes":["nombre femenino","Medicina"],"definition":"Fármaco antibacteriano de amplio espectro.","examples":[],"word":"quinolona"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quinésica"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quinésico"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quiqui"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quiromancía"}
+{"number":1,"attributes":["nombre femenino","Medicina"],"definition":"quiropráctica (‖ método terapéutico).","examples":[],"word":"quiropraxia"}
+{"number":1,"attributes":["nombre femenino","Medicina"],"definition":"quiropráctica (‖ método terapéutico).","examples":[],"word":"quiropraxis"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quisque"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quisqui"}
+{"number":0,"attributes":[],"definition":"","examples":[],"word":"quínoa"}
