@@ -159,7 +159,9 @@ async function main() {
   console.log(`Pending words: ${pendingWords.length}`);
 
   if (partitions.length < os.cpus().length) {
-    const chunkSize = Math.ceil(fparts.length / os.cpus().length);
+    const chunkSize = Math.ceil(
+      fparts.length / Math.min(os.cpus().length, partitions.flat().length)
+    );
     partitions = splitByChunks(partitions.flat(), chunkSize);
   }
 
