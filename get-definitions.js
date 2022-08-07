@@ -2,9 +2,11 @@ const { chromium } = require("@playwright/test");
 const fs = require("fs");
 const os = require("os");
 
-const words = JSON.parse(fs.readFileSync("./allWords.json").toString()).sort();
+const allWords = JSON.parse(
+  fs.readFileSync("./allWords.json").toString()
+).sort();
 
-const total = words.length;
+const total = allWords.length;
 let count = 0;
 
 function sleep(time = 1000, upperTime = 3000) {
@@ -38,6 +40,7 @@ async function gatherDefs(words) {
           "./error.log",
           `Error loading word ${word}: https://dle.rae.es/${word}?m=form => HTTP${request._initializer.status}\n`
         );
+        delete request;
         continue;
       }
       delete request;
@@ -47,6 +50,16 @@ async function gatherDefs(words) {
           document.querySelectorAll("article p")
         ).filter((x) => x.className.startsWith("j"));
         const result = [];
+        if (!definitionEntries.length) {
+          return [
+            {
+              number: 0,
+              attributes: [],
+              definition: "",
+              examples: [],
+            },
+          ];
+        }
         for (const entry of definitionEntries) {
           let started = false;
           const wordEntry = {
@@ -136,45 +149,63 @@ function splitByStartingInitialLetter(words) {
 }
 
 async function main() {
-  const partitions = splitByStartingInitialLetter(words);
-  let parts = [];
+  process.stdout.write("Loading pending words...");
+  const retrievedWords = getAllRetrievedWords();
+  const pendingWords = allWords.filter((x) => !retrievedWords.includes(x));
+  let partitions = splitByStartingInitialLetter(pendingWords).filter(
+    (x) => !!x.length
+  );
+  console.log("done");
+  console.log(`Pending words: ${pendingWords.length}`);
 
-  for (const part of partitions) {
-    const char = normalizeString(part[0].charAt(0).toLowerCase());
-    const filename = `./data/${char.toUpperCase()}.jsonl`;
-    if (!fs.existsSync(filename)) {
-      parts.push(part);
-      continue;
-    }
-    const words = fs
-      .readFileSync(filename)
-      .toString()
-      .split("\n")
-      .filter((x) => !!x.trim())
-      .map((x) => JSON.parse(x).word);
-    const index = part.findIndex((x) => x === words[words.length - 1]);
-    parts.push(part.slice(index + 1));
-    count += index;
-  }
-
-  parts = parts.filter((x) => !!x.length);
-  if (parts.length < 5) {
-    const fparts = parts.flat();
-    parts = [];
+  if (partitions.length < os.cpus().length) {
     const chunkSize = Math.ceil(fparts.length / os.cpus().length);
-    for (let i = 0; i < fparts.length; i += chunkSize) {
-      const chunk = fparts.slice(i, i + chunkSize);
-      // do whatever
-      parts.push(chunk);
-    }
+    partitions = splitByChunks(partitions.flat(), chunkSize);
   }
-  let counter = 0;
+
+  count += total - Array.from(partitions).flat().length;
+
+  console.log(`Launching ${partitions.length} browsers`);
+  process.stdout.write(`Processing: ${count}/${total}`);
+
   await Promise.all(
-    parts.map(async (words) => {
-      console.log(`Launching browser ${++counter}`);
+    partitions.map(async (words) => {
       await gatherDefs(words);
     })
   );
+}
+
+function splitByChunks(list, chunkSize) {
+  const parts = [];
+  for (let i = 0; i < list.length; i += chunkSize) {
+    const chunk = list.slice(i, i + chunkSize);
+    // do whatever
+    parts.push(chunk);
+  }
+  return parts;
+}
+
+function getAllRetrievedWords() {
+  const filenames = fs
+    .readdirSync("./data/")
+    .filter((f) => f.endsWith(".jsonl"));
+  let words = [];
+  for (const filename of filenames) {
+    words = words.concat(
+      Array.from(
+        new Set(
+          fs
+            .readFileSync(`./data/${filename}`)
+            .toString()
+            .split("\n")
+            .filter((x) => !!x.trim())
+            .map((x) => JSON.parse(x).word)
+        )
+      )
+    );
+  }
+  words.sort();
+  return words;
 }
 
 main();
