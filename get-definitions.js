@@ -1,10 +1,15 @@
 const { chromium } = require("@playwright/test");
 const fs = require("fs");
 const os = require("os");
+const path = require("path");
 
-const allWords = JSON.parse(
-  fs.readFileSync("./allWords.json").toString()
-).sort();
+const allWords = fs
+  .readFileSync(path.join(__dirname, "all-words.txt"))
+  .toString()
+  .split("\n")
+  .filter((x) => !!x.trim())
+  .filter((x) => !x.includes("-") && !x.includes(" "))
+  .filter((x) => isLetter(normalizeString(x.charAt(0))));
 
 const total = allWords.length;
 let count = 0;
@@ -36,7 +41,7 @@ async function gatherDefs(words) {
       ]);
       if (request._initializer.status != 200) {
         fs.appendFileSync(
-          "./error.log",
+          path.join(__dirname, "error.log"),
           `Error loading word ${word}: https://dle.rae.es/${word}?m=form => HTTP${request._initializer.status}\n`
         );
         delete request;
@@ -91,25 +96,19 @@ async function gatherDefs(words) {
       });
     } catch (e) {
       fs.appendFileSync(
-        "./error.log",
+        path.join(__dirname, "error.log"),
         `Error loading word ${word}: ${e.message}\n`
       );
       continue;
     }
 
-    // create a locator
-    // definitions[word] = def;
-    // fs.writeFileSync(
-    //   `./data/${normalizeString(
-    //     word.charAt(0).toLowerCase()
-    //   ).toUpperCase()}.json`,
-    //   JSON.stringify(definitions, null, 2)
-    // );
     for (const x of def) {
       fs.appendFileSync(
-        `./data/${normalizeString(
-          word.charAt(0).toLowerCase()
-        ).toUpperCase()}.jsonl`,
+        path.join(
+          __dirname,
+          "data",
+          `${normalizeString(word.charAt(0).toLowerCase()).toUpperCase()}.jsonl`
+        ),
         JSON.stringify({ ...x, word }) + "\n"
       );
     }
@@ -188,7 +187,7 @@ function splitByChunks(list, chunkSize) {
 
 function getAllRetrievedWords() {
   const filenames = fs
-    .readdirSync("./data/")
+    .readdirSync(path.join(__dirname, "data"))
     .filter((f) => f.endsWith(".jsonl"));
   let words = [];
   for (const filename of filenames) {
