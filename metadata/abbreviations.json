@@ -1,0 +1,1346 @@
+[
+  {
+    "abbr": "a.",
+    "meaning": "alto"
+  },
+  {
+    "abbr": "abl.",
+    "meaning": "ablativo"
+  },
+  {
+    "abbr": "abrev.",
+    "meaning": "abreviación"
+  },
+  {
+    "abbr": "acep.",
+    "meaning": "acepción"
+  },
+  {
+    "abbr": "acort.",
+    "meaning": "acortamiento"
+  },
+  {
+    "abbr": "acrón.",
+    "meaning": "acrónimo"
+  },
+  {
+    "abbr": "act.",
+    "meaning": "activo"
+  },
+  {
+    "abbr": "acus.",
+    "meaning": "acusativo"
+  },
+  {
+    "abbr": "Acús.",
+    "meaning": "acústica"
+  },
+  {
+    "abbr": "adapt.",
+    "meaning": "adaptación; adaptado"
+  },
+  {
+    "abbr": "adj.",
+    "meaning": "adjetivo"
+  },
+  {
+    "abbr": "adv.",
+    "meaning": "adverbio; adverbial"
+  },
+  {
+    "abbr": "advers.",
+    "meaning": "adversativo"
+  },
+  {
+    "abbr": "Aer.",
+    "meaning": "aeronáutica"
+  },
+  {
+    "abbr": "afect.",
+    "meaning": "afectivo"
+  },
+  {
+    "abbr": "afér.",
+    "meaning": "aféresis"
+  },
+  {
+    "abbr": "Agr.",
+    "meaning": "agricultura"
+  },
+  {
+    "abbr": "aim.",
+    "meaning": "aimara"
+  },
+  {
+    "abbr": "al.",
+    "meaning": "alemán"
+  },
+  {
+    "abbr": "Ál.",
+    "meaning": "Álava"
+  },
+  {
+    "abbr": "Alb.",
+    "meaning": "Albacete"
+  },
+  {
+    "abbr": "Alm.",
+    "meaning": "Almería"
+  },
+  {
+    "abbr": "Alq.",
+    "meaning": "alquimia"
+  },
+  {
+    "abbr": "alterac.",
+    "meaning": "alteración"
+  },
+  {
+    "abbr": "alus.",
+    "meaning": "alusión"
+  },
+  {
+    "abbr": "Am.",
+    "meaning": "América"
+  },
+  {
+    "abbr": "Am. Cen.",
+    "meaning": "América Central"
+  },
+  {
+    "abbr": "amer.",
+    "meaning": "americano"
+  },
+  {
+    "abbr": "Am. Mer.",
+    "meaning": "América Meridional"
+  },
+  {
+    "abbr": "Anat.",
+    "meaning": "anatomía"
+  },
+  {
+    "abbr": "And.",
+    "meaning": "Andalucía"
+  },
+  {
+    "abbr": "ant.",
+    "meaning": "anticuado; antiguo"
+  },
+  {
+    "abbr": "Ant.",
+    "meaning": "Antillas"
+  },
+  {
+    "abbr": "antonom.",
+    "meaning": "antonomasia"
+  },
+  {
+    "abbr": "Antrop.",
+    "meaning": "antropología"
+  },
+  {
+    "abbr": "apl.",
+    "meaning": "aplicado"
+  },
+  {
+    "abbr": "apóc.",
+    "meaning": "apócope"
+  },
+  {
+    "abbr": "apos.",
+    "meaning": "aposición"
+  },
+  {
+    "abbr": "Ar.",
+    "meaning": "Aragón"
+  },
+  {
+    "abbr": "ár.",
+    "meaning": "árabe"
+  },
+  {
+    "abbr": "arag.",
+    "meaning": "aragonés"
+  },
+  {
+    "abbr": "Arg.",
+    "meaning": "Argentina"
+  },
+  {
+    "abbr": "Arq.",
+    "meaning": "arquitectura"
+  },
+  {
+    "abbr": "Arqueol.",
+    "meaning": "arqueología"
+  },
+  {
+    "abbr": "art.",
+    "meaning": "artículo"
+  },
+  {
+    "abbr": "ast.",
+    "meaning": "asturiano"
+  },
+  {
+    "abbr": "Ast.",
+    "meaning": "Asturias"
+  },
+  {
+    "abbr": "Astrol.",
+    "meaning": "astrología"
+  },
+  {
+    "abbr": "Astron.",
+    "meaning": "astronomía"
+  },
+  {
+    "abbr": "atóm.",
+    "meaning": "atómico"
+  },
+  {
+    "abbr": "aum.",
+    "meaning": "aumentativo"
+  },
+  {
+    "abbr": "aux.",
+    "meaning": "auxiliar; verbo auxiliar"
+  },
+  {
+    "abbr": "Áv.",
+    "meaning": "Ávila"
+  },
+  {
+    "abbr": "b.",
+    "meaning": "bajo"
+  },
+  {
+    "abbr": "Bad.",
+    "meaning": "Badajoz"
+  },
+  {
+    "abbr": "Bal.",
+    "meaning": "Islas Baleares"
+  },
+  {
+    "abbr": "berb.",
+    "meaning": "bereber"
+  },
+  {
+    "abbr": "Bil.",
+    "meaning": "Bilbao"
+  },
+  {
+    "abbr": "Biol.",
+    "meaning": "biología"
+  },
+  {
+    "abbr": "Bioquím.",
+    "meaning": "bioquímica"
+  },
+  {
+    "abbr": "Bol.",
+    "meaning": "Bolivia"
+  },
+  {
+    "abbr": "Bot.",
+    "meaning": "botánica"
+  },
+  {
+    "abbr": "Burg.",
+    "meaning": "Burgos"
+  },
+  {
+    "abbr": "c.",
+    "meaning": "como"
+  },
+  {
+    "abbr": "Các.",
+    "meaning": "Cáceres"
+  },
+  {
+    "abbr": "Cád.",
+    "meaning": "Cádiz"
+  },
+  {
+    "abbr": "Can.",
+    "meaning": "Canarias"
+  },
+  {
+    "abbr": "Cantb.",
+    "meaning": "Cantabria"
+  },
+  {
+    "abbr": "Carp.",
+    "meaning": "carpintería"
+  },
+  {
+    "abbr": "Cast.",
+    "meaning": "Castilla"
+  },
+  {
+    "abbr": "cat.",
+    "meaning": "catalán"
+  },
+  {
+    "abbr": "Cat.",
+    "meaning": "Cataluña"
+  },
+  {
+    "abbr": "celtolat.",
+    "meaning": "celtolatino"
+  },
+  {
+    "abbr": "cf.",
+    "meaning": "confer"
+  },
+  {
+    "abbr": "cient.",
+    "meaning": "científico"
+  },
+  {
+    "abbr": "Cineg.",
+    "meaning": "cinegética"
+  },
+  {
+    "abbr": "Cinem.",
+    "meaning": "cinematografía"
+  },
+  {
+    "abbr": "clás.",
+    "meaning": "clásico"
+  },
+  {
+    "abbr": "Col.",
+    "meaning": "Colombia"
+  },
+  {
+    "abbr": "coloq.",
+    "meaning": "coloquial"
+  },
+  {
+    "abbr": "Com.",
+    "meaning": "comercio"
+  },
+  {
+    "abbr": "comp.",
+    "meaning": "comparativo"
+  },
+  {
+    "abbr": "compos.",
+    "meaning": "compositivo"
+  },
+  {
+    "abbr": "conc.",
+    "meaning": "concesivo"
+  },
+  {
+    "abbr": "condic.",
+    "meaning": "condicional"
+  },
+  {
+    "abbr": "conj.",
+    "meaning": "conjunción"
+  },
+  {
+    "abbr": "conjug.",
+    "meaning": "conjugación"
+  },
+  {
+    "abbr": "conjunt.",
+    "meaning": "conjuntivo"
+  },
+  {
+    "abbr": "Constr.",
+    "meaning": "construcción"
+  },
+  {
+    "abbr": "contracc.",
+    "meaning": "contracción"
+  },
+  {
+    "abbr": "copulat.",
+    "meaning": "copulativo; verbo copulativo"
+  },
+  {
+    "abbr": "Córd.",
+    "meaning": "Córdoba"
+  },
+  {
+    "abbr": "C. Real",
+    "meaning": "Ciudad Real"
+  },
+  {
+    "abbr": "C. Rica",
+    "meaning": "Costa Rica"
+  },
+  {
+    "abbr": "Cuen.",
+    "meaning": "Cuenca"
+  },
+  {
+    "abbr": "cult.",
+    "meaning": "culto"
+  },
+  {
+    "abbr": "dat.",
+    "meaning": "dativo"
+  },
+  {
+    "abbr": "deformac.",
+    "meaning": "deformación"
+  },
+  {
+    "abbr": "dem.",
+    "meaning": "demostrativo"
+  },
+  {
+    "abbr": "Dep.",
+    "meaning": "deportes"
+  },
+  {
+    "abbr": "der.",
+    "meaning": "derivado"
+  },
+  {
+    "abbr": "Der.",
+    "meaning": "derecho"
+  },
+  {
+    "abbr": "desc.",
+    "meaning": "desconocido"
+  },
+  {
+    "abbr": "despect.",
+    "meaning": "despectivo"
+  },
+  {
+    "abbr": "desus.",
+    "meaning": "desusado"
+  },
+  {
+    "abbr": "deter.",
+    "meaning": "determinado"
+  },
+  {
+    "abbr": "dialect.",
+    "meaning": "dialectal"
+  },
+  {
+    "abbr": "dim.",
+    "meaning": "diminutivo"
+  },
+  {
+    "abbr": "disc.",
+    "meaning": "discutido"
+  },
+  {
+    "abbr": "distrib.",
+    "meaning": "distributivo"
+  },
+  {
+    "abbr": "disyunt.",
+    "meaning": "disyuntivo"
+  },
+  {
+    "abbr": "Ec.",
+    "meaning": "Ecuador"
+  },
+  {
+    "abbr": "Ecd.",
+    "meaning": "ecdótica"
+  },
+  {
+    "abbr": "Ecol.",
+    "meaning": "ecología"
+  },
+  {
+    "abbr": "Econ.",
+    "meaning": "economía"
+  },
+  {
+    "abbr": "EE. UU.",
+    "meaning": "Estados Unidos"
+  },
+  {
+    "abbr": "Electr.",
+    "meaning": "electricidad; electrónica"
+  },
+  {
+    "abbr": "elem.",
+    "meaning": "elemento"
+  },
+  {
+    "abbr": "El Salv.",
+    "meaning": "El Salvador"
+  },
+  {
+    "abbr": "Equit.",
+    "meaning": "equitación"
+  },
+  {
+    "abbr": "Esc.",
+    "meaning": "escultura"
+  },
+  {
+    "abbr": "escr.",
+    "meaning": "escrito"
+  },
+  {
+    "abbr": "Esgr.",
+    "meaning": "esgrima"
+  },
+  {
+    "abbr": "esp.",
+    "meaning": "español"
+  },
+  {
+    "abbr": "Esp.",
+    "meaning": "España"
+  },
+  {
+    "abbr": "Estad.",
+    "meaning": "estadística"
+  },
+  {
+    "abbr": "estud.",
+    "meaning": "estudiantil"
+  },
+  {
+    "abbr": "etim.",
+    "meaning": "etimología"
+  },
+  {
+    "abbr": "eufem.",
+    "meaning": "eufemismo; eufemístico"
+  },
+  {
+    "abbr": "excl.",
+    "meaning": "exclamativo"
+  },
+  {
+    "abbr": "expr.",
+    "meaning": "expresión; expresivo"
+  },
+  {
+    "abbr": "ext.",
+    "meaning": "extensión"
+  },
+  {
+    "abbr": "Ext.",
+    "meaning": "Extremadura"
+  },
+  {
+    "abbr": "f.",
+    "meaning": "femenino; nombre femenino"
+  },
+  {
+    "abbr": "fest.",
+    "meaning": "festivo"
+  },
+  {
+    "abbr": "fig.",
+    "meaning": "figurado"
+  },
+  {
+    "abbr": "Fil.",
+    "meaning": "filosofía"
+  },
+  {
+    "abbr": "Filip.",
+    "meaning": "Filipinas"
+  },
+  {
+    "abbr": "Fís.",
+    "meaning": "física"
+  },
+  {
+    "abbr": "Fisiol.",
+    "meaning": "fisiología"
+  },
+  {
+    "abbr": "Fon.",
+    "meaning": "fonética; fonología"
+  },
+  {
+    "abbr": "Fórm.",
+    "meaning": "fórmula"
+  },
+  {
+    "abbr": "Fotogr.",
+    "meaning": "fotografía"
+  },
+  {
+    "abbr": "fr.",
+    "meaning": "francés"
+  },
+  {
+    "abbr": "fr.",
+    "meaning": "frase"
+  },
+  {
+    "abbr": "frec.",
+    "meaning": "frecuentativo"
+  },
+  {
+    "abbr": "frec.",
+    "meaning": "frecuentemente"
+  },
+  {
+    "abbr": "fut.",
+    "meaning": "futuro"
+  },
+  {
+    "abbr": "Gal.",
+    "meaning": "Galicia"
+  },
+  {
+    "abbr": "gall.",
+    "meaning": "gallego"
+  },
+  {
+    "abbr": "gallegoport.",
+    "meaning": "gallegoportugués"
+  },
+  {
+    "abbr": "galolat.",
+    "meaning": "galolatino"
+  },
+  {
+    "abbr": "genit.",
+    "meaning": "genitivo"
+  },
+  {
+    "abbr": "Geogr.",
+    "meaning": "geografía"
+  },
+  {
+    "abbr": "Geol.",
+    "meaning": "geología"
+  },
+  {
+    "abbr": "Geom.",
+    "meaning": "geometría"
+  },
+  {
+    "abbr": "ger.",
+    "meaning": "gerundio"
+  },
+  {
+    "abbr": "germ.",
+    "meaning": "germanía"
+  },
+  {
+    "abbr": "germ.",
+    "meaning": "germánico"
+  },
+  {
+    "abbr": "gót.",
+    "meaning": "gótico"
+  },
+  {
+    "abbr": "gr.",
+    "meaning": "griego"
+  },
+  {
+    "abbr": "Gram.",
+    "meaning": "gramática"
+  },
+  {
+    "abbr": "Gran.",
+    "meaning": "Granada"
+  },
+  {
+    "abbr": "Gran Can.",
+    "meaning": "Gran Canaria"
+  },
+  {
+    "abbr": "Guad.",
+    "meaning": "Guadalajara"
+  },
+  {
+    "abbr": "guar.",
+    "meaning": "guaraní"
+  },
+  {
+    "abbr": "Guat.",
+    "meaning": "Guatemala"
+  },
+  {
+    "abbr": "Guin.",
+    "meaning": "Guinea Ecuatorial"
+  },
+  {
+    "abbr": "Guip.",
+    "meaning": "Guipúzcoa"
+  },
+  {
+    "abbr": "hebr.",
+    "meaning": "hebreo"
+  },
+  {
+    "abbr": "Heráld.",
+    "meaning": "heráldica"
+  },
+  {
+    "abbr": "hisp.",
+    "meaning": "hispánico"
+  },
+  {
+    "abbr": "Hond.",
+    "meaning": "Honduras"
+  },
+  {
+    "abbr": "Huel.",
+    "meaning": "Huelva"
+  },
+  {
+    "abbr": "Hues.",
+    "meaning": "Huesca"
+  },
+  {
+    "abbr": "ilat.",
+    "meaning": "ilativo"
+  },
+  {
+    "abbr": "imit.",
+    "meaning": "imitación; imitativo"
+  },
+  {
+    "abbr": "imper.",
+    "meaning": "imperativo"
+  },
+  {
+    "abbr": "imperf.",
+    "meaning": "imperfecto"
+  },
+  {
+    "abbr": "impers.",
+    "meaning": "impersonal; verbo impersonal"
+  },
+  {
+    "abbr": "Impr.",
+    "meaning": "imprenta"
+  },
+  {
+    "abbr": "inc.",
+    "meaning": "incierto"
+  },
+  {
+    "abbr": "incoat.",
+    "meaning": "incoativo"
+  },
+  {
+    "abbr": "indef.",
+    "meaning": "indefinido"
+  },
+  {
+    "abbr": "indet.",
+    "meaning": "indeterminado"
+  },
+  {
+    "abbr": "indic.",
+    "meaning": "indicativo"
+  },
+  {
+    "abbr": "infant.",
+    "meaning": "infantil"
+  },
+  {
+    "abbr": "infinit.",
+    "meaning": "infinitivo"
+  },
+  {
+    "abbr": "infl.",
+    "meaning": "influencia; influido; influjo"
+  },
+  {
+    "abbr": "Inform.",
+    "meaning": "informática"
+  },
+  {
+    "abbr": "Ingen.",
+    "meaning": "ingeniería"
+  },
+  {
+    "abbr": "ingl.",
+    "meaning": "inglés"
+  },
+  {
+    "abbr": "intens.",
+    "meaning": "intensivo"
+  },
+  {
+    "abbr": "interj.",
+    "meaning": "interjección; interjectivo"
+  },
+  {
+    "abbr": "interrog.",
+    "meaning": "interrogativo"
+  },
+  {
+    "abbr": "intr.",
+    "meaning": "intransitivo; verbo intransitivo"
+  },
+  {
+    "abbr": "inus.",
+    "meaning": "inusual"
+  },
+  {
+    "abbr": "irl.",
+    "meaning": "irlandés"
+  },
+  {
+    "abbr": "irón.",
+    "meaning": "irónico"
+  },
+  {
+    "abbr": "irreg.",
+    "meaning": "irregular"
+  },
+  {
+    "abbr": "it.",
+    "meaning": "italiano"
+  },
+  {
+    "abbr": "jap.",
+    "meaning": "japonés"
+  },
+  {
+    "abbr": "jerg.",
+    "meaning": "jerga; jergal"
+  },
+  {
+    "abbr": "lat.",
+    "meaning": "latín; latino"
+  },
+  {
+    "abbr": "leng.",
+    "meaning": "lenguaje"
+  },
+  {
+    "abbr": "leon.",
+    "meaning": "leonés"
+  },
+  {
+    "abbr": "Ling.",
+    "meaning": "lingüística"
+  },
+  {
+    "abbr": "loc.",
+    "meaning": "locución"
+  },
+  {
+    "abbr": "m.",
+    "meaning": "masculino; nombre masculino"
+  },
+  {
+    "abbr": "[u.] m.",
+    "meaning": "[usado] más"
+  },
+  {
+    "abbr": "m. or.",
+    "meaning": "mismo origen"
+  },
+  {
+    "abbr": "Mad.",
+    "meaning": "Madrid"
+  },
+  {
+    "abbr": "Mál.",
+    "meaning": "Málaga"
+  },
+  {
+    "abbr": "malson.",
+    "meaning": "malsonante"
+  },
+  {
+    "abbr": "Man.",
+    "meaning": "La Mancha"
+  },
+  {
+    "abbr": "Mar.",
+    "meaning": "marina"
+  },
+  {
+    "abbr": "Mat.",
+    "meaning": "matemáticas"
+  },
+  {
+    "abbr": "may.",
+    "meaning": "mayúscula"
+  },
+  {
+    "abbr": "Mec.",
+    "meaning": "mecánica"
+  },
+  {
+    "abbr": "Med.",
+    "meaning": "medicina"
+  },
+  {
+    "abbr": "metapl.",
+    "meaning": "metaplasmo"
+  },
+  {
+    "abbr": "metát.",
+    "meaning": "metátesis"
+  },
+  {
+    "abbr": "Meteor.",
+    "meaning": "meteorología"
+  },
+  {
+    "abbr": "Métr.",
+    "meaning": "métrica"
+  },
+  {
+    "abbr": "Méx.",
+    "meaning": "México"
+  },
+  {
+    "abbr": "Mil.",
+    "meaning": "milicia"
+  },
+  {
+    "abbr": "Mit.",
+    "meaning": "mitología"
+  },
+  {
+    "abbr": "mod.",
+    "meaning": "moderno"
+  },
+  {
+    "abbr": "mozár.",
+    "meaning": "mozárabe"
+  },
+  {
+    "abbr": "Mur.",
+    "meaning": "Murcia"
+  },
+  {
+    "abbr": "Mús.",
+    "meaning": "música"
+  },
+  {
+    "abbr": "n.",
+    "meaning": "neutro"
+  },
+  {
+    "abbr": "n. p.",
+    "meaning": "nombre propio"
+  },
+  {
+    "abbr": "Nav.",
+    "meaning": "Navarra"
+  },
+  {
+    "abbr": "neerl.",
+    "meaning": "neerlandés"
+  },
+  {
+    "abbr": "neg.",
+    "meaning": "negación"
+  },
+  {
+    "abbr": "negat.",
+    "meaning": "negativo"
+  },
+  {
+    "abbr": "Nic.",
+    "meaning": "Nicaragua"
+  },
+  {
+    "abbr": "nórd.",
+    "meaning": "nórdico"
+  },
+  {
+    "abbr": "núm.",
+    "meaning": "número"
+  },
+  {
+    "abbr": "Numism.",
+    "meaning": "numismática"
+  },
+  {
+    "abbr": "occid.",
+    "meaning": "occidental"
+  },
+  {
+    "abbr": "occit.",
+    "meaning": "occitano"
+  },
+  {
+    "abbr": "onomat.",
+    "meaning": "onomatopeya; onomatopéyico"
+  },
+  {
+    "abbr": "Ópt.",
+    "meaning": "óptica"
+  },
+  {
+    "abbr": "or.",
+    "meaning": "origen"
+  },
+  {
+    "abbr": "orient.",
+    "meaning": "oriental"
+  },
+  {
+    "abbr": "Ortogr.",
+    "meaning": "ortografía"
+  },
+  {
+    "abbr": "Pal.",
+    "meaning": "Palencia"
+  },
+  {
+    "abbr": "Pan.",
+    "meaning": "Panamá"
+  },
+  {
+    "abbr": "Par.",
+    "meaning": "Paraguay"
+  },
+  {
+    "abbr": "Parapsicol.",
+    "meaning": "parapsicología"
+  },
+  {
+    "abbr": "part.",
+    "meaning": "participio"
+  },
+  {
+    "abbr": "pas.",
+    "meaning": "pasivo"
+  },
+  {
+    "abbr": "perf.",
+    "meaning": "perfecto"
+  },
+  {
+    "abbr": "pers.",
+    "meaning": "persona"
+  },
+  {
+    "abbr": "person.",
+    "meaning": "personal"
+  },
+  {
+    "abbr": "peyor.",
+    "meaning": "peyorativo"
+  },
+  {
+    "abbr": "Pint.",
+    "meaning": "pintura"
+  },
+  {
+    "abbr": "pl.",
+    "meaning": "plural"
+  },
+  {
+    "abbr": "poét.",
+    "meaning": "poético"
+  },
+  {
+    "abbr": "ponder.",
+    "meaning": "ponderativo"
+  },
+  {
+    "abbr": "pop.",
+    "meaning": "popular"
+  },
+  {
+    "abbr": "port.",
+    "meaning": "portugués"
+  },
+  {
+    "abbr": "poses.",
+    "meaning": "posesivo"
+  },
+  {
+    "abbr": "pref.",
+    "meaning": "prefijo"
+  },
+  {
+    "abbr": "prep.",
+    "meaning": "preposición"
+  },
+  {
+    "abbr": "prepos.",
+    "meaning": "preposicional"
+  },
+  {
+    "abbr": "pres.",
+    "meaning": "presente"
+  },
+  {
+    "abbr": "pret.",
+    "meaning": "pretérito"
+  },
+  {
+    "abbr": "P. Rico",
+    "meaning": "Puerto Rico"
+  },
+  {
+    "abbr": "prnl.",
+    "meaning": "pronominal; verbo pronominal"
+  },
+  {
+    "abbr": "pron.",
+    "meaning": "pronombre"
+  },
+  {
+    "abbr": "pronom.",
+    "meaning": "pronominal"
+  },
+  {
+    "abbr": "prov.",
+    "meaning": "provenzal"
+  },
+  {
+    "abbr": "Psicol.",
+    "meaning": "psicología"
+  },
+  {
+    "abbr": "Psiquiatr.",
+    "meaning": "psiquiatría"
+  },
+  {
+    "abbr": "p. us.",
+    "meaning": "poco usado"
+  },
+  {
+    "abbr": "P. Vasco",
+    "meaning": "País Vasco"
+  },
+  {
+    "abbr": "Quím.",
+    "meaning": "química"
+  },
+  {
+    "abbr": "R. Dom.",
+    "meaning": "República Dominicana"
+  },
+  {
+    "abbr": "ref.",
+    "meaning": "referido"
+  },
+  {
+    "abbr": "refl.",
+    "meaning": "reflexivo"
+  },
+  {
+    "abbr": "reg.",
+    "meaning": "regular"
+  },
+  {
+    "abbr": "[marca] reg.",
+    "meaning": "[marca] registrada"
+  },
+  {
+    "abbr": "regres.",
+    "meaning": "regresivo"
+  },
+  {
+    "abbr": "Rel.",
+    "meaning": "religión"
+  },
+  {
+    "abbr": "relat.",
+    "meaning": "relativo"
+  },
+  {
+    "abbr": "Ret.",
+    "meaning": "retórica"
+  },
+  {
+    "abbr": "rur.",
+    "meaning": "rural"
+  },
+  {
+    "abbr": "s.",
+    "meaning": "sustantivo"
+  },
+  {
+    "abbr": "Sal.",
+    "meaning": "Salamanca"
+  },
+  {
+    "abbr": "sánscr.",
+    "meaning": "sánscrito"
+  },
+  {
+    "abbr": "Seg.",
+    "meaning": "Segovia"
+  },
+  {
+    "abbr": "sent.",
+    "meaning": "sentido"
+  },
+  {
+    "abbr": "Sev.",
+    "meaning": "Sevilla"
+  },
+  {
+    "abbr": "Símb.",
+    "meaning": "símbolo"
+  },
+  {
+    "abbr": "sínc.",
+    "meaning": "síncopa"
+  },
+  {
+    "abbr": "sing.",
+    "meaning": "singular"
+  },
+  {
+    "abbr": "Sociol.",
+    "meaning": "sociología"
+  },
+  {
+    "abbr": "Sor.",
+    "meaning": "Soria"
+  },
+  {
+    "abbr": "subj.",
+    "meaning": "subjuntivo"
+  },
+  {
+    "abbr": "suf.",
+    "meaning": "sufijo"
+  },
+  {
+    "abbr": "sup.",
+    "meaning": "superlativo"
+  },
+  {
+    "abbr": "sust.",
+    "meaning": "sustantivo"
+  },
+  {
+    "abbr": "t.",
+    "meaning": "terminación"
+  },
+  {
+    "abbr": "[conj.] t.",
+    "meaning": "[conjunción] temporal"
+  },
+  {
+    "abbr": "[u.] t.",
+    "meaning": "[usado] también"
+  },
+  {
+    "abbr": "Taurom.",
+    "meaning": "tauromaquia"
+  },
+  {
+    "abbr": "Tb.",
+    "meaning": "también"
+  },
+  {
+    "abbr": "Tecnol.",
+    "meaning": "tecnologías"
+  },
+  {
+    "abbr": "Telec.",
+    "meaning": "telecomunicación"
+  },
+  {
+    "abbr": "Ter.",
+    "meaning": "Teruel"
+  },
+  {
+    "abbr": "T. lit.",
+    "meaning": "teoría literaria"
+  },
+  {
+    "abbr": "Tol.",
+    "meaning": "Toledo"
+  },
+  {
+    "abbr": "Topogr.",
+    "meaning": "topografía"
+  },
+  {
+    "abbr": "tr.",
+    "meaning": "transitivo; verbo transitivo"
+  },
+  {
+    "abbr": "trad.",
+    "meaning": "traducción"
+  },
+  {
+    "abbr": "Transp.",
+    "meaning": "transportes"
+  },
+  {
+    "abbr": "TV.",
+    "meaning": "televisión"
+  },
+  {
+    "abbr": "u.",
+    "meaning": "usado"
+  },
+  {
+    "abbr": "Ur.",
+    "meaning": "Uruguay"
+  },
+  {
+    "abbr": "Urb.",
+    "meaning": "urbanismo"
+  },
+  {
+    "abbr": "V.",
+    "meaning": "véase"
+  },
+  {
+    "abbr": "Val.",
+    "meaning": "Valencia"
+  },
+  {
+    "abbr": "Vall.",
+    "meaning": "Valladolid"
+  },
+  {
+    "abbr": "var.",
+    "meaning": "variante"
+  },
+  {
+    "abbr": "Ven.",
+    "meaning": "Venezuela"
+  },
+  {
+    "abbr": "verb.",
+    "meaning": "verbal"
+  },
+  {
+    "abbr": "Veter.",
+    "meaning": "veterinaria"
+  },
+  {
+    "abbr": "Vizc.",
+    "meaning": "Vizcaya"
+  },
+  {
+    "abbr": "vocat.",
+    "meaning": "vocativo"
+  },
+  {
+    "abbr": "vulg.",
+    "meaning": "vulgar"
+  },
+  {
+    "abbr": "Zam.",
+    "meaning": "Zamora"
+  },
+  {
+    "abbr": "Zar.",
+    "meaning": "Zaragoza"
+  },
+  {
+    "abbr": "Zool.",
+    "meaning": "zoología"
+  }
+]
