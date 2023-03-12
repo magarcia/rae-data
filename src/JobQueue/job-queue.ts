@@ -1,3 +1,4 @@
+import os from 'node:os';
 import _debug from 'debug';
 
 const debug = _debug('job-queue');
@@ -5,7 +6,7 @@ const debug = _debug('job-queue');
 export type Job = (...args: any[]) => any;
 
 export type JobQueueOptions = {
-	parallel: number;
+	parallel?: number;
 };
 
 /**
@@ -37,7 +38,7 @@ export default class JobQueue {
 				options,
 			)}`,
 		);
-		this.parallel = options.parallel;
+		this.parallel = options.parallel ?? os.cpus().length;
 	}
 
 	get pending(): number {

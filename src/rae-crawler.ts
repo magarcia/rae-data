@@ -3,102 +3,8 @@ import * as url from 'node:url';
 import path from 'node:path';
 import {promises as fs, createWriteStream} from 'node:fs';
 import {Listr} from 'listr2';
-import JobQueue, {type Job} from './JobQueue';
-import {Rae} from './Rae';
 import {sort} from './utils';
-import {ALPHABET_ARRAY} from './constants';
-
-type Result = {
-	word: string;
-	header: string;
-	id: string;
-	grp: number;
-};
-
-async function prefixCrawler(
-	prefix: string,
-	rae: Rae,
-	processed: Set<string>,
-	{onWordFound}: {onWordFound?: (results: Result) => void} = {},
-): Promise<Result[]> {
-	const foundWords: Result[] = [];
-	for (const letter of ALPHABET_ARRAY) {
-		const query = prefix + letter;
-		const keys = await rae.keys(query);
-		const words = await Promise.all(
-			keys
-				.filter(word => !processed.has(word))
-				.map(async word => {
-					const results = await rae.search(word, Rae.MODE.PREFIX);
-					processed.add(word);
-					const result = {
-						word,
-						...results[0]!,
-					};
-					onWordFound?.(result);
-					return result;
-				}),
-		);
-		if (keys.length >= 10) {
-			words.push(
-				...(await prefixCrawler(query, rae, processed, {onWordFound})),
-			);
-		}
-
-		foundWords.push(...words);
-	}
-
-	return foundWords;
-}
-
-async function crawler(
-	rae: Rae,
-	{
-		parallel = 10,
-		onWordFound,
-		onJobStart,
-		onJobFinish,
-		onJobScheduled,
-		onFinish,
-	}: {
-		parallel?: number;
-		onWordFound?: (letter: string, result: Result) => void;
-		onJobStart?: (letter: string) => void;
-		onJobFinish?: (letter: string, results: Result[]) => void;
-		onJobScheduled?: (letter: string) => void;
-		onFinish?: (results: Result[]) => void;
-	},
-) {
-	const results: Result[] = [];
-	const jobQueue = new JobQueue({parallel});
-
-	const processed = new Set<string>();
-
-	const jobs: Job[] = [];
-	for (const letter of ALPHABET_ARRAY) {
-		onJobScheduled?.(letter);
-		jobs.push(async () => {
-			onJobStart?.(letter);
-			return [
-				letter,
-				await prefixCrawler(letter, rae, processed, {
-					onWordFound: onWordFound?.bind(null, letter),
-				}),
-			];
-		});
-	}
-
-	jobQueue.onJobFinished(async ([letter, results]: [string, Result[]]) => {
-		results.push(...results);
-		onJobFinish?.(letter, results);
-	});
-
-	jobQueue.add(...jobs);
-
-	await jobQueue.wait();
-	onFinish?.(results);
-	return results;
-}
+import {type Result, crawler} from './crawler';
 
 function toJsonl(results: Result[]): string {
 	return sort(
@@ -187,6 +93,7 @@ export default async function main(outputFolder = 'data') {
 				await new Promise(resolve => {
 					const interval = setInterval(() => {
 						const stats = jobStats.get(letter);
+
 						if (stats) {
 							if (stats.started) {
 								task.title = `Started job for ${letter}`;
@@ -198,11 +105,12 @@ export default async function main(outputFolder = 'data') {
 
 							if (stats.finished) {
 								task.title = `Finished job for ${letter}: ${stats.found ?? 0}`;
+
 								clearInterval(interval);
 								resolve(stats.results);
 							}
 						}
-					}, 100);
+					}, 1000);
 				});
 			},
 		});
@@ -215,12 +123,7 @@ export default async function main(outputFolder = 'data') {
 		}
 	};
 
-	const rae = new Rae({
-		username: process.env.RAE_USERNAME!,
-		password: process.env.RAE_PASSWORD!,
-	});
-
-	const crawling = crawler(rae, {
+	const crawling = crawler({
 		onWordFound,
 		onJobFinish,
 		onJobStart,
@@ -259,7 +162,7 @@ export default async function main(outputFolder = 'data') {
 								task.title = `Words found: ${total} (${finished}/${totalJobs})`;
 								resolve();
 							}
-						}, 100);
+						}, 1000);
 					});
 				},
 			},
