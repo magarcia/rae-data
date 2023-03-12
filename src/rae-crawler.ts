@@ -123,7 +123,7 @@ type JobStats = {
 	started: boolean;
 };
 
-async function main(outputFolder = 'data') {
+export default async function main(outputFolder = 'data') {
 	const {argv} = process;
 	const isVerbose = argv.includes('--verbose') || argv.includes('-v');
 

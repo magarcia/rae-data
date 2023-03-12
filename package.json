@@ -28,10 +28,8 @@
 		"quoteProps": "consistent"
 	},
 	"devDependencies": {
-		"@types/cache-manager-fs-hash": "^0.0.1",
 		"@types/debug": "^4.1.7",
 		"@types/jest": "^29.4.0",
-		"@types/lockfile": "^1",
 		"@types/proper-lockfile": "^4",
 		"@types/xo": "^0",
 		"@typescript-eslint/eslint-plugin": ">=5.43.0",
@@ -51,15 +49,12 @@
 		"xo": "^0.53.1"
 	},
 	"dependencies": {
-		"cache-manager": "^5.1.7",
-		"cache-manager-fs-hash": "^1.0.0",
 		"cheerio": "^1.0.0-rc.12",
 		"debug": "^4.3.4",
+		"dotenv": "^16.0.3",
 		"got": "^12.6.0",
-		"got-cached": "^1.2.1",
 		"keyv": "^4.5.2",
 		"listr2": "^5.0.8",
-		"lockfile": "^1.0.4",
 		"prettier": "^2.8.4",
 		"proper-lockfile": "^4.1.2",
 		"ts-node": "^10.9.1"
