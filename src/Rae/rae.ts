@@ -25,6 +25,7 @@ export default class Rae {
 
 	constructor({username, password}: {username: string; password: string}) {
 		const options = {
+			// For HTTPS: 'https://193.145.222.40/data',
 			prefixUrl: 'http://193.145.222.39/data',
 			headers: this.buildHeaders(username, password),
 			cache: this.createCache(),

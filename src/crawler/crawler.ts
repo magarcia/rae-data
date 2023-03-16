@@ -1,5 +1,7 @@
 /* eslint-disable no-await-in-loop */
 import * as url from 'node:url';
+import fs from 'node:fs/promises';
+import path from 'node:path';
 import {fork} from 'node:child_process';
 import JobQueue, {type Job} from '../JobQueue';
 import {ALPHABET_ARRAY} from '../constants';
@@ -56,6 +58,33 @@ async function prefixCrawler(
 	});
 }
 
+function getLetterPath(letter: string): string {
+	const __dirname = new URL('.', import.meta.url).pathname;
+	return path.join(__dirname, '..', '..', 'data', 'letters', `${letter}.jsonl`);
+}
+
+async function getCreationTime(file: string): Promise<Date> {
+	try {
+		return await fs.stat(file).then(stats => stats.birthtime);
+	} catch {
+		return new Date(0);
+	}
+}
+
+function lessThanSevenDaysAgo(date: Date): boolean {
+	const sevenDaysAgo = new Date();
+	sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+	return date > sevenDaysAgo;
+}
+
+async function asyncFilter<T>(
+	array: readonly T[],
+	predicate: (item: T) => Promise<boolean>,
+) {
+	const results = await Promise.all(array.map(predicate));
+	return array.filter((_item, index) => results[index]);
+}
+
 export async function crawler({
 	parallel,
 	onWordFound,
@@ -72,10 +101,17 @@ export async function crawler({
 	onFinish?: (results: Result[]) => void;
 } = {}) {
 	const results: Result[] = [];
-	const jobQueue = new JobQueue({parallel});
+	const missingLetters = await asyncFilter(ALPHABET_ARRAY, async letter => {
+		const letterPath = getLetterPath(letter);
+		const creationTime = await getCreationTime(letterPath);
+		return !lessThanSevenDaysAgo(creationTime);
+	});
+	const jobQueue = new JobQueue({
+		parallel: Math.min(parallel ?? 1, missingLetters.length),
+	});
 
 	const jobs: Job[] = [];
-	for (const letter of ALPHABET_ARRAY) {
+	for (const letter of missingLetters) {
 		onJobScheduled?.(letter);
 		jobs.push(async () => {
 			onJobStart?.(letter);
